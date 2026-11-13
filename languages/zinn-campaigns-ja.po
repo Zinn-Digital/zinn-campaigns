@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "WordPress サイトまたは WooCommerce ストアをワンクリックで Zinn® Campaigns に連携し、ダブルオプトインの登録フォームでリストを拡大しましょう。メール、SMS、WhatsApp のキャンペーンは、お客様の Zinn® Campaigns アカウントから送信されます。"
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "このサイトで Zinn® Campaigns を管理する権限がありません。"
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "このサイトは Zinn® Campaigns に接続されています。"
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "このサイトは切断されています。登録フォームから Zinn® Campaigns への新規登録の送信が停止されます。"
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "その接続に時間がかかりすぎたか、別のブラウザーで開始されました。「接続」をもう一度押してください。"
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Zinn® が接続を受け入れませんでした。もう一度「接続」を押してください。失敗が続く場合は、Zinn® サポートにお問い合わせください。"
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "サイトから Zinn® に接続できませんでした。ホストが外部への接続を許可していることを確認し、「再接続」を押してください。"
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "%sアドオン"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "有料の Zinn® Campaigns プランをご利用いただくと、Pro を無料でご利用いただけます。個別のライセンスを購入する必要はありません。Pro は、Zinn® ダッシュボードからダウンロードできる独立したアドワンプラグインです。"
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "含まれています: お客様のアカウントには有料の Zinn® Campaigns プランが適用されています。"
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "%sまで無料でお試しいただけます。その後も Pro を継続してご利用いただくには、有料の Zinn® Campaigns プランをお選びください。"
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "現在は含まれていません: 無料トライアルが終了したか、プランのお支払いが完了していません。Pro の設定は保持され、有料プランが有効になった瞬間に復元されます。"
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "プランに含まれる内容を確認するには、このサイトを接続してください。"
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "Pro アドオンをダウンロード"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "Zinn® Campaigns のプランを見る"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "登録フォーム"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "任意の固定ページまたは投稿に「Zinn® Campaigns 登録フォーム」ブロックを追加するか、以下にショートコードを貼り付けます。登録ごとにまず確認メールが送信され (ダブルオプトイン)、確認したユーザーのみがリストに追加されます。"
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "お客様のアカウントにはまだ登録フォームがありません。Zinn®ダッシュボードの「キャンペーン」、「フォーム」で作成し、「更新」を押してください。"
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "フォーム"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "一覧"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "ダブルオプトインの登録フォームを使用してこのサイトでリストを拡大し、Zinn® Campaigns アカウントからメール、SMS、WhatsApp のキャンペーンを送信できます。"
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "「接続」をクリックすると、このウィンドウで Zinn® が開きます。サインインするかアカウントを作成し、このサイトを承認すると、すぐにここへ戻ります。キーを貼り付ける必要はありません。"
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "Zinn® Campaigns に接続"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "接続されましたが、現在 Zinn® に接続できませんでした。間もなく再試行します。"
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "サイト"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "接続済み"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "お客様のアカウントで利用可能"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "お客様のアカウントではまだご利用いただけません。利用可能になり次第、Zinn® からメールでお知らせいたします。"
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "更新"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "切断"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "このサイトを接続する権限がありません。"
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "このサイトの接続を解除する権限がありません。"
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "Zinn® Campaigns 登録フォーム"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "フォームを選択"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "お客様の Zinn® Campaigns アカウントからのダブルオプトイン登録フォーム。"
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "登録フォーム"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns: このサイトを接続し、フォームを1つ選択して、ここに登録フォームを表示します。"
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "新規登録"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "ありがとうございます。受信トレイを確認し、メール内のリンクをクリックして承認してください。"
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "空のままにする"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "メールアドレス"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — ガイドとサービス"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "ユーザーガイド"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "%sユーザーガイドを読む"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "これを非表示"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "Zinn® Pro メンバーシップ: すべての Pro プラグイン、1 つのライセンス"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "Page Builder Sandwich、Tranzly、Zinn® SEO、Zinn® Cache、Zinn® Backups の Pro 版、および今後リリースされるすべての Pro プラグインが年間 %s から利用可能です。2 つ目のメンバーシップで Zinn® Chat Pro が追加されます。"
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "WordPress 向け Zinn®ホスティング"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed、毎日のバックアップ、無料の移行、そして複数のサイトを運営する方向けに構築されたコントロールパネル。"
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "Zinn® マーケットプレイス"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "双方が納得するまで代金が安全に保管される環境で、既存のサイト、ドメイン、被リンク掲載枠を売買できます。"
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — これを生業としているプロを雇いましょう"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "私たちのグローバルなフリーランスマーケットプレイス: ライター、デザイナー、開発者、SEO エキスパートによる1万件以上の既製サービスを閲覧するか、プロジェクトを投稿して提案を募集しましょう。"
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "Zinn Digital® のリリースノートを見る。"
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "Zinn®の更新サービスはこの更新用のダウンロードリンクを発行しませんでした。このサイトが Zinn®プラットフォームにアクセスできることを確認してから、もう一度お試しください。"
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "Zinn® の更新サービス (%s) から更新をダウンロードできませんでした。数分後にもう一度お試しください。"
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "ダウンロードされた更新プログラムは整合性チェックに失敗したため、インストールされませんでした。"

@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hy\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "Մեկ սեղմումով միացրեք ձեր WordPress կայքը կամ WooCommerce խանութը Zinn® Campaigns-ին և ընդլայնեք ձեր ցուցակը կրկնակի հաստատմամբ (double opt-in) գրանցման ձևերի միջոցով: Էլփոստի, SMS-ի և WhatsApp-ի արշավներն ուղարկվում են ձեր Zinn® Campaigns հաշվից:"
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "Ձեզ չի թույլատրվում կառավարել Zinn® Campaigns-ը այս կայքում:"
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "Այս կայքը կապված է Zinn® Campaigns-ի հետ:"
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "Այս կայքն անջատված է: Գրանցման ձևերը դադարում են նոր գրանցումներ ուղարկել Zinn® Campaigns:"
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "Այդ կապը չափազանց երկար տևեց կամ սկսվել էր մեկ այլ դիտարկիչում: Կրկին սեղմեք Միանալ:"
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Zinn®-ը չընդունեց կապը։ Կրկին սեղմեք «Միանալ»․ եթե սխալը կրկնվի, կապվեք Zinn®-ի աջակցման ծառայության հետ։"
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "Ձեր կայքը չկարողացավ կապ հաստատել Zinn®-ի հետ: Ստուգեք, որ ձեր հոսթինգը թույլատրում է ելքային միացումները, ապա սեղմեք «Կրկին միանալ»:"
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "%s հավելումը"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "Դուք ստանում եք Pro-ն անվճար ցանկացած վճարովի Zinn® Campaigns պլանի հետ. առանձին լիցենզիա գնելու կարիք չկա: Pro-ն առանձին հավելված (plugin) է, որը ներբեռնում եք ձեր Zinn® կառավարման վահանակից:"
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "Ներառված է. ձեր հաշիվն ունի վճարովի Zinn® Campaigns պլան:"
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "Անվճար փորձաշրջան մինչև %s: Դրանից հետո Pro տարբերակը պահպանելու համար ընտրեք Zinn® Campaigns-ի ցանկացած վճարովի պլան:"
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "Այս պահին ներառված չէ. անվճար փորձաշրջանն ավարտվել է կամ սակագնային պլանը վճարված չէ: Ձեր Pro կարգավորումները պահպանվում են և կվերականգնվեն վճարովի պլանի ակտիվանալու պահին:"
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "Միացրեք այս կայքը՝ տեսնելու համար, թե ինչ է ներառում ձեր սակագնային պլանը:"
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "Ներբեռնեք Pro հավելումը"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "Դիտել Zinn® Campaigns-ի փաթեթները"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "Գրանցման ձևեր"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "Ավելացրեք «Zinn® Campaigns-ի գրանցման ձև» բլոկը ցանկացած էջում կամ գրառման մեջ, կամ տեղադրեք կարճ կոդը ներքևում: Յուրաքանչյուր գրանցում նախ ստանում է հաստատման էլ․ նամակ (կրկնակի գրանցում), և միայն հաստատած անձինք են միանում Ձեր ցուցակին:"
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "Ձեր հաշիվը դեռ չունի գրանցման ձևանմուշներ: Ստեղծեք մեկը ձեր Zinn® կառավարման վահանակում՝ Արշավներ, Ձևանմուշներ բաժնում, ապա սեղմեք Թարմացնել:"
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "Ձևաթուղթ"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "Ցանկ"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "Կարճ կոդ"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "Ընդլայնեք ձեր ցուցակն այս կայքում կրկնակի հաստատմամբ գրանցման ձևաթղթերի միջոցով և ուղարկեք էլփոստի, SMS-ի և WhatsApp-ի արշավներ ձեր Zinn® Campaigns հաշվից:"
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "«Միանալ» կոճակը բացում է Zinn®-ը այս պատուհանում: Մուտք գործեք կամ ստեղծեք հաշիվ, հաստատեք այս կայքը, և դուք անմիջապես կվերադառնաք այստեղ: Երբեք կարիք չի լինի բանալի տեղադրել:"
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "Միանալ Zinn® Campaigns-ին"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "Միացված է, բայց այս պահին չհաջողվեց կապ հաստատել Zinn®-ի հետ: Շուտով նորից կփորձենք:"
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "Կայք"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "Միացված է"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "Բաց է ձեր հաշվի համար"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "Ձեր հաշվի համար դեռ հասանելի չէ։ Zinn®-ը Ձեզ էլ․ նամակ կուղարկի, երբ այն հասանելի լինի։"
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "Թարմացնել"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "Անջատել"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "Ձեզ չի թույլատրվում միացնել այս կայքը։"
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "Ձեզ չի թույլատրվում անջատել այս կայքը:"
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "Zinn® Campaigns գրանցման ձև"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "Ընտրեք ձևանմուշ"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "Կրկնակի հաստատմամբ (double opt-in) գրանցման ձևաթուղթ ձեր Zinn® Campaigns հաշվից:"
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "Գրանցման ձև"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns. կապեք այս կայքը և ընտրեք Ձեր ձևաթղթերից մեկը՝ այստեղ գրանցման ձևաթուղթ ցուցադրելու համար:"
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "Գրանցվել"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "Շնորհակալություն: Ստուգեք Ձեր մուտքային նամակները և հաստատելու համար սեղմեք մեր էլ․ նամակում եղած հղմանը:"
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "Թողեք սա դատարկ"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "Էլ․ հասցե"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — ուղեցույցներ և ծառայություններ"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "Օգտագործողի ուղեցույցներ"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "Կարդացեք %s-ի օգտագործողի ուղեցույցը"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "Թաքցնել սա"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "Zinn® Pro Անդամակցություն. յուրաքանչյուր Pro փլագին, մեկ լիցենզիա"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "Page Builder Sandwich-ի, Tranzly-ի, Zinn® SEO-ի, Zinn® Cache-ի և Zinn® Backups-ի Pro տարբերակները, ինչպես նաև մեր կողմից թողարկվելիք յուրաքանչյուր Pro փլագին՝ տարեկան սկսած %s-ից: Երկրորդ անդամակցությունն ավելացնում է Zinn® Chat Pro-ն:"
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "Zinn® հոսթինգ WordPress-ի համար"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed, ամենօրյա պահուստավորումներ, անվճար տեղափոխում և կառավարման վահանակ՝ ստեղծված մեկից ավելի կայքեր ղեկավարող մարդկանց համար:"
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "Zinn® շուկա"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "Գնեք և վաճառեք կայացած կայքեր, դոմեյններ և հղումների տեղադրումներ՝ գումարն ապահով պահելով, մինչև երկու կողմերն էլ գոհ լինեն:"
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — վարձեք մարդկանց, ովքեր զբաղվում են սրանով որպես մասնագիտություն"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "Մեր համաշխարհային ֆրիլանս հարթակը. զննեք ավելի քան 10,000 պատրաստի ծառայություններ հեղինակներից, դիզայներներից, ծրագրավորողներից և SEO մասնագետներից, կամ հրապարակեք նախագիծ և թույլ տվեք նրանց առաջարկներ ներկայացնել:"
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "Տեսեք Zinn Digital®-ի թողարկման նշումները:"
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "Zinn® թարմացման ծառայությունը ներբեռնման հղում չի տրամադրել այս թարմացման համար: Ստուգեք, որ այս կայքը կարող է միանալ Zinn® հարթակին, ապա նորից փորձեք:"
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "Թարմացումը չհաջողվեց ներբեռնել Zinn® թարմացման ծառայությունից (%s): Խնդրում ենք փորձել կրկին մի քանի րոպեից:"
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "Ներբեռնված թարմացումը չի անցել ամբողջականության ստուգումը և չի տեղադրվել:"

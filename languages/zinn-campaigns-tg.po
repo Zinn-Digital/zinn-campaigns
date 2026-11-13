@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tg\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "Сомонаи WordPress ё мағозаи WooCommerce-и худро бо як клик ба Zinn® Campaigns пайваст намоед ва рӯйхати худро бо варақаҳои бақайдгирии тасдиқи дукарата васеъ кунед. Корзорҳои почтаи электронӣ, SMS ва WhatsApp аз ҳисоби Zinn® Campaigns-и шумо фиристода мешаванд."
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "Шумо барои идоракунии Zinn® Campaigns дар ин сомона иҷозат надоред."
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "Ин сомона ба Zinn® Campaigns пайваст аст."
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "Ин сомона ҷудо карда шудааст. Шаклҳои бақайдгирӣ фиристодани бақайдгириҳои навро ба Zinn® Campaigns қатъ мекунанд."
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "Он пайвастшавӣ хеле тӯл кашид ё дар браузери дигар оғоз ёфта буд. Тугмаи Пайваст кардан-ро дубора пахш намоед."
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Zinn® пайвастшавиро қабул накард. Бори дигар Пайваст карданро пахш намоед; агар хатогӣ давом ёбад, ба хадамоти дастгирии Zinn® муроҷиат кунед."
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "Сомонаи шумо натавонист ба Zinn® пайваст шавад. Санҷед, ки оё мизбони шумо пайвастҳои содиротиро иҷозат медиҳад ё не, сипас «Пайвастшавии дубора»-ро пахш намоед."
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "Иловаи %s"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "Шумо Pro-ро бо ҳама гуна нақшаи пулакии Zinn® Campaigns ройгон ба даст меоред: иҷозатномаи алоҳида барои харидан вуҷуд надорад. Pro як плагини иловагии алоҳида аст, ки шумо онро аз панели идораи Zinn®-и худ боргирӣ мекунед."
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "Дохил карда шудааст: ҳисоби шумо нақшаи пулакии Zinn® Campaigns-ро дорад."
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "Давраи озмоишии ройгон то %s. Барои нигоҳ доштани Pro пас аз он, ягон нақшаи пулакии Zinn® Campaigns-ро интихоб кунед."
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "Дар ҳоли ҳозир дохил карда нашудааст: давраи санҷишии ройгон ба охир расид ё маблағи нақша пардохт нашудааст. Танзимоти Pro-и Шумо нигоҳ дошта мешаванд ва ҳамон лаҳзае, ки нақшаи пулакӣ фаъол мешавад, бармегарданд."
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "Ин сомонаро пайваст кунед, то бубинед, ки нақшаи шумо чиро дар бар мегирад."
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "Иловаи Pro-ро зеркашӣ кунед"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "Нақшаҳои Zinn® Campaigns-ро бинед"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "Шаклҳои сабти ном"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "Блоки \"Шакли бақайдгирии Zinn® Campaigns\"-ро ба дилхоҳ саҳифа ё навишта илова кунед, ё дар зер кӯтоҳкод гузоред. Ҳар як бақайдгирӣ аввал паёми тасдиқи почтаи электронӣ мегирад (ризояти дукарата), ва танҳо шахсоне, ки тасдиқ мекунанд, ба рӯйхати шумо ҳамроҳ мешаванд."
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "Ҳисоби шумо то ҳол ягон шакли сабти ном надорад. Дар панели идораи Zinn®-и худ дар зери Маъракаҳо, Шаклҳо якеро эҷод кунед, сипас Навсозӣ-ро пахш кунед."
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "Шакл"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "Рӯйхат"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "Рамзи кӯтоҳ"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "Рӯйхати худро дар ин сомона тавассути шаклҳои бақайдгирӣ бо тасдиқи дукарата васеъ намоед ва маъракаҳои почтаи электронӣ, SMS ва WhatsApp-ро аз ҳисоби Zinn® Campaigns-и худ фиристед."
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "«Пайваст кардан» Zinn®-ро дар ин равзана мекушояд. Ворид шавед ё ҳисоб эҷод кунед, ин сомонаро тасдиқ намоед ва шумо мустақиман ба ин ҷо бармегардед. Шумо ҳеҷ гоҳ калидро намегузоред."
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "Пайваст шудан ба Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "Пайваст шуд, аммо дар ҳоли ҳозир дастрасӣ ба Zinn® имконнопазир буд. Мо ба зудӣ боз кӯшиш хоҳем кард."
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "Сомона"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "Пайваст шуд"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "Барои ҳисоби шумо боз аст"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "Барои ҳисоби Шумо ҳанӯз дастрас нест. Вақте ки дастрас шавад, Zinn® ба Шумо мактуби электронӣ мефиристад."
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "Бозхонӣ"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "Қатъ кардани пайваст"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "Шумо иҷозати пайваст кардани ин сомонаро надоред."
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "Шумо ҳуқуқи қатъ кардани пайвасти ин сомонаро надоред."
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "Шакли бақайдгирии Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "Шаклро интихоб кунед"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "Шакли бақайдгирӣ бо тасдиқи дукарата аз ҳисоби Zinn® Campaigns-и шумо."
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "Шакли бақайдгирӣ"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns: ин сайтро пайваст кунед ва яке аз шаклҳои худро интихоб намоед, то дар ин ҷо шакли сабти ном нишон дода шавад."
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "Номнавис шавед"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "Ташаккур. Қуттии паёмҳои даромадаи худро санҷед ва барои тасдиқ пайванди дар почтаи электронии мо бударо пахш намоед."
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "Инро холӣ гузоред"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "Суроғаи почтаи электронӣ"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — дастурҳо ва хидматҳо"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "Дастурҳои корбар"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "Дастури корбари %s-ро хонед"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "Инро пинҳон кунед"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "Узвияти Zinn® Pro: ҳар як плагини Pro, як иҷозатнома"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "Нусхаҳои Pro-и Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache ва Zinn® Backups, инчунин ҳар як плагини Pro, ки мо баъдан мебарорем, аз %s дар як сол. Узвияти дуюм Zinn® Chat Pro-ро илова мекунад."
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "Хостинги Zinn® барои WordPress"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed, нусхабардориҳои эҳтиётии ҳаррӯза, кӯчонидани ройгон ва панели идорие, ки барои идоракунандагони беш аз як сомона сохта шудааст."
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "Бозори Zinn®"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "Сайтҳои фаъол, доменҳо ва ҷойгиркунии пайвандҳоро хариду фурӯш намоед, дар ҳоле ки маблағ то қонеъ шудани ҳар ду ҷониб бехатар нигоҳ дошта мешавад."
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — одамонеро ба кор гиред, ки ин касби асосии онҳост"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "Бозори ҷаҳонии фрилансерии мо: беш аз 10 000 хидмати омодаро аз муаллифон, тарроҳон, барномасозон ва мутахассисони SEO аз назар гузаронед, ё лоиҳае пешниҳод карда, ба онҳо имкон диҳед, ки нархнома фиристанд."
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "Қайдҳои нашри Zinn Digital®-ро бинед."
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "Хадамоти навсозии Zinn® пайванди боргириро барои ин навсозӣ пешниҳод накард. Санҷед, ки оё ин сомона ба платформаи Zinn® дастрасӣ дорад ё не, сипас дубора кӯшиш кунед."
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "Навсозиро аз хадамоти навсозии Zinn® (%s) боргирӣ кардан имконнопазир буд. Лутфан пас аз чанд дақиқа дубора кӯшиш кунед."
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "Навсозии боргиришуда аз санҷиши беайбӣ нагузашт ва насб нашуд."

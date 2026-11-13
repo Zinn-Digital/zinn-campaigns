@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "Povežite svoje WordPress web-mjesto ili WooCommerce trgovinu sa Zinn® Campaigns jednim klikom i proširite svoj popis pomoću obrazaca za prijavu s dvostrukom potvrdom. E-mail, SMS i WhatsApp kampanje šalju se s vašeg Zinn® Campaigns računa."
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "Nemate dopuštenje za upravljanje Zinn® Campaigns na ovom web-mjestu."
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "Ova web-stranica povezana je sa Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "Ovo web-mjesto je odspojeno. Obrasci za prijavu prestaju slati nove prijave u Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "To povezivanje je trajalo predugo ili je pokrenuto u drugom pregledniku. Pritisnite ponovno Poveži."
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Zinn® nije prihvatio vezu. Pritisnite ponovno Poveži; ako se problem nastavi, obratite se Zinn® podršci."
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "Vaša web-lokacija nije se mogla povezati sa Zinn®. Provjerite dopušta li vaš poslužitelj odlazne veze, a zatim pritisnite „Poveži ponovno”."
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "Dodatak %s"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "Dobivate Pro besplatno uz bilo koji plaćeni Zinn® Campaigns plan: nema zasebne licence za kupnju. Pro je zaseban dodatak (plugin) koji preuzimate sa svoje Zinn® nadzorne ploče."
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "Uključeno: vaš račun ima plaćeni Zinn® Campaigns plan."
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "Besplatno probno razdoblje do %s. Odaberite bilo koji plaćeni Zinn® Campaigns paket kako biste zadržali Pro nakon toga."
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "Trenutačno nije uključeno: besplatno probno razdoblje je završilo ili paket nije plaćen. Vaše Pro postavke su sačuvane i vraćaju se onog trenutka kada plaćeni paket postane aktivan."
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "Povežite ovo web-mjesto kako biste vidjeli što vaš paket uključuje."
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "Preuzmite dodatak Pro"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "Pogledajte pakete za Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "Obrasci za registraciju"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "Dodajte blok „Obrazac za prijavu za Zinn® Campaigns” na bilo koju stranicu ili objavu ili zalijepite kratki kod u nastavku. Svaka prijava najprije prima e-poruku s potvrdom (dvostruka privola), a na Vaš se popis dodaju samo osobe koje potvrde prijavu."
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "Vaš račun još nema obrasce za prijavu. Izradite jedan na svojoj Zinn® nadzornoj ploči pod Kampanje, Obrasci, a zatim pritisnite Osvježi."
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "Obrazac"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "Popis"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "Kratki kôd"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "Proširite svoj popis na ovom web-mjestu obrascima za prijavu s dvostrukom potvrdom te šaljite e-poštu, SMS i WhatsApp kampanje sa svog Zinn® Campaigns računa."
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "„Poveži” otvara Zinn® u ovom prozoru. Prijavite se ili izradite račun, odobrite ovo web-mjesto i vraćate se izravno ovamo. Nikada ne lijepite ključ."
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "Povežite se sa Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "Povezano, ali se trenutno nije moglo pristupiti poslužitelju Zinn®. Uskoro ćemo pokušati ponovno."
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "Web-mjesto"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "Povezano"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "Otvoreno za vaš račun"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "Još nije dostupno za Vaš račun. Zinn® će Vam poslati e-poruku kada postane dostupno."
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "Osvježi"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "Prekini vezu"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "Nemate dopuštenje za povezivanje ove web-lokacije."
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "Nemate dopuštenje za prekidanje veze ove web-stranice."
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "Obrazac za prijavu za Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "Odaberite obrazac"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "Obrazac za prijavu s dvostrukom potvrdom s vašeg Zinn® Campaigns računa."
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "Obrazac za registraciju"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns: povežite ovo web-mjesto i odaberite jedan od svojih obrazaca kako biste ovdje prikazali obrazac za prijavu."
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "Registrirajte se"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "Hvala vam. Provjerite svoju pristiglu poštu i kliknite na poveznicu u našoj e-pošti kako biste potvrdili."
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "Ostavite ovo prazno"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "Adresa e-pošte"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — vodiči i usluge"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "Korisnički priručnici"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "Pročitajte korisnički priručnik za %s"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "Sakrij ovo"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "Zinn® Pro članstvo: svaki Pro priključak, jedna licenca"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "Pro verzije za Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache i Zinn® Backups te svaki sljedeći Pro priključak koji objavimo, već od %s godišnje. Drugo članstvo dodaje Zinn® Chat Pro."
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "Zinn® hosting za WordPress"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed, svakodnevne sigurnosne kopije, besplatna migracija i upravljačka ploča stvorena za ljude koji vode više od jedne web-stranice."
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "Trgovina Zinn®"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "Kupujte i prodajte etablirane web-stranice, domene i plasmane poveznica, uz sigurno čuvanje novca dok obje strane ne budu zadovoljne."
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — zaposlite ljude kojima je ovo struka"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "Naše globalno tržište slobodnih profesionalaca: pregledajte više od 10.000 gotovih usluga pisaca, dizajnera, programera i SEO stručnjaka ili objavite projekt i omogućite im slanje ponuda."
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "Pogledajte bilješke o izdanju za Zinn Digital®."
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "Usluga ažuriranja Zinn® nije pružila poveznicu za preuzimanje ovog ažuriranja. Provjerite može li ova web-stranica pristupiti platformi Zinn®, a zatim pokušajte ponovno."
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "Ažuriranje se nije moglo preuzeti s usluge ažuriranja za Zinn® (%s). Pokušajte ponovo za nekoliko minuta."
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "Preuzeto ažuriranje nije prošlo provjeru cjelovitosti i nije instalirano."

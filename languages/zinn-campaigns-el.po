@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "Συνδέστε τον ιστότοπό σας WordPress ή το κατάστημά σας WooCommerce με το Zinn® Campaigns με ένα κλικ και αναπτύξτε τη λίστα σας με φόρμες εγγραφής διπλής επιβεβαίωσης (double opt-in). Οι καμπάνιες ηλεκτρονικού ταχυδρομείου, SMS και WhatsApp αποστέλλονται από τον λογαριασμό σας Zinn® Campaigns."
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "Δεν σας επιτρέπεται η διαχείριση του Zinn® Campaigns σε αυτόν τον ιστότοπο."
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "Αυτός ο ιστότοπος είναι συνδεδεμένος με το Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "Αυτός ο ιστότοπος έχει αποσυνδεθεί. Οι φόρμες εγγραφής σταματούν να στέλνουν νέες εγγραφές στο Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "Αυτή η σύνδεση διήρκεσε πάρα πολύ ή ξεκίνησε σε άλλο πρόγραμμα περιήγησης. Πατήστε ξανά Σύνδεση."
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Το Zinn® δεν αποδέχτηκε τη σύνδεση. Πατήστε ξανά Σύνδεση. Εάν συνεχίσει να αποτυγχάνει, επικοινωνήστε με την υποστήριξη του Zinn®."
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "Ο ιστότοπός σας δεν μπόρεσε να συνδεθεί με το Zinn®. Ελέγξτε αν ο πάροχος φιλοξενίας σας επιτρέπει τις εξερχόμενες συνδέσεις και, στη συνέχεια, πατήστε «Επανασύνδεση»."
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "Το πρόσθετο %s"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "Λαμβάνετε το Pro δωρεάν με οποιοδήποτε επί πληρωμή πρόγραμμα Zinn® Campaigns: δεν υπάρχει ξεχωριστή άδεια για αγορά. Το Pro είναι ένα ξεχωριστό πρόσθετο plugin που κατεβάζετε από τον πίνακα ελέγχου σας στο Zinn®."
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "Περιλαμβάνεται: ο λογαριασμός σας διαθέτει ένα πρόγραμμα Zinn® Campaigns επί πληρωμή."
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "Δωρεάν δοκιμή έως %s. Επιλέξτε οποιοδήποτε πρόγραμμα επί πληρωμή του Zinn® Campaigns για να διατηρήσετε το Pro μετά από αυτό."
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "Δεν περιλαμβάνεται αυτήν τη στιγμή: η δωρεάν δοκιμή έχει λήξει ή το πλάνο δεν έχει πληρωθεί. Οι ρυθμίσεις Pro σας διατηρούνται και θα επιστρέψουν μόλις ενεργοποιηθεί ένα συνδρομητικό πλάνο."
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "Συνδέστε αυτόν τον ιστότοπο για να δείτε τι περιλαμβάνει το πρόγραμμά σας."
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "Κατεβάστε το πρόσθετο Pro"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "Δείτε τα προγράμματα του Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "Φόρμες εγγραφής"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "Προσθέστε το μπλοκ «Φόρμα εγγραφής Zinn® Campaigns» σε οποιαδήποτε σελίδα ή άρθρο, ή επικολλήστε έναν σύντομο κωδικό παρακάτω. Κάθε εγγραφή λαμβάνει πρώτα ένα email επιβεβαίωσης (double opt-in), και μόνο τα άτομα που επιβεβαιώνουν προστίθενται στη λίστα σας."
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "Ο λογαριασμός σας δεν έχει ακόμα φόρμες εγγραφής. Δημιουργήστε μία στον πίνακα ελέγχου σας Zinn® στην ενότητα Καμπάνιες, Φόρμες, και στη συνέχεια πατήστε Ανανέωση."
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "Φόρμα"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "Λίστα"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "Σύντομος κωδικός"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "Αναπτύξτε τη λίστα σας σε αυτόν τον ιστότοπο με φόρμες εγγραφής διπλής επιβεβαίωσης και στείλτε καμπάνιες ηλεκτρονικού ταχυδρομείου, SMS και WhatsApp από τον λογαριασμό σας στο Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "Η επιλογή «Σύνδεση» ανοίγει το Zinn® σε αυτό το παράθυρο. Συνδεθείτε ή δημιουργήστε έναν λογαριασμό, εγκρίνετε αυτόν τον ιστότοπο και θα επιστρέψετε απευθείας εδώ. Δεν χρειάζεται ποτέ να επικολλήσετε κλειδί."
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "Σύνδεση στο Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "Συνδέθηκε, αλλά δεν ήταν δυνατή η πρόσβαση στο Zinn® αυτή τη στιγμή. Θα δοκιμάσουμε ξανά σύντομα."
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "Ιστότοπος"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "Συνδέθηκε"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "Ανοιχτό για τον λογαριασμό σας"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "Δεν είναι ακόμη διαθέσιμο για τον λογαριασμό σας. Το Zinn® θα σας στείλει μήνυμα ηλεκτρονικού ταχυδρομείου όταν θα είναι διαθέσιμο."
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "Αποσύνδεση"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "Δεν σας επιτρέπεται να συνδέσετε αυτόν τον ιστότοπο."
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "Δεν σας επιτρέπεται να αποσυνδέσετε αυτόν τον ιστότοπο."
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "Φόρμα εγγραφής Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "Επιλέξτε μια φόρμα"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "Μια φόρμα εγγραφής διπλής επιβεβαίωσης από τον λογαριασμό σας στο Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "Φόρμα εγγραφής"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns: συνδέστε αυτόν τον ιστότοπο και επιλέξτε μία από τις φόρμες σας για να εμφανίσετε μια φόρμα εγγραφής εδώ."
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "Εγγραφείτε"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "Σας ευχαριστούμε. Ελέγξτε τα εισερχόμενά σας και κάντε κλικ στον σύνδεσμο στο μήνυμα ηλεκτρονικού ταχυδρομείου μας για επιβεβαίωση."
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "Αφήστε το κενό"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "Διεύθυνση email"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — οδηγοί και υπηρεσίες"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "Οδηγοί χρήστη"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "Διαβάστε τον οδηγό χρήσης του %s"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "Απόκρυψη αυτού"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "Συνδρομή Zinn® Pro: κάθε πρόσθετο Pro, μία άδεια χρήσης"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "Οι εκδόσεις Pro των Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache και Zinn® Backups, καθώς και κάθε νέο πρόσθετο Pro που θα κυκλοφορήσουμε, από %s τον χρόνο. Μια δεύτερη συνδρομή προσθέτει το Zinn® Chat Pro."
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "Φιλοξενία Zinn® για το WordPress"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed, καθημερινά αντίγραφα ασφαλείας, δωρεάν μεταφορά και ένας πίνακας ελέγχου σχεδιασμένος για άτομα που διαχειρίζονται περισσότερους από έναν ιστότοπους."
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "Η αγορά του Zinn®"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "Αγοράστε και πουλήστε εδραιωμένους ιστότοπους, τομείς και τοποθετήσεις συνδέσμων, με τα χρήματα να διακρατούνται με ασφάλεια έως ότου και οι δύο πλευρές μείνουν ικανοποιημένες."
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — προσλάβετε ανθρώπους που το κάνουν αυτό για να βιοπορίζονται"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "Η παγκόσμια αγορά ανεξάρτητων επαγγελματιών μας: περιηγηθείτε σε περισσότερες από 10.000 έτοιμες υπηρεσίες από συγγραφείς, σχεδιαστές, προγραμματιστές και ειδικούς SEO, ή δημοσιεύστε ένα έργο και αφήστε τους να υποβάλουν προσφορές."
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "Δείτε τις σημειώσεις έκδοσης του Zinn Digital®."
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "Η υπηρεσία ενημερώσεων του Zinn® δεν εξέδωσε σύνδεσμο λήψης για αυτήν την ενημέρωση. Ελέγξτε αν αυτός ο ιστότοπος μπορεί να συνδεθεί με την πλατφόρμα του Zinn® και, στη συνέχεια, δοκιμάστε ξανά."
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "Δεν ήταν δυνατή η λήψη της ενημέρωσης από την υπηρεσία ενημερώσεων του Zinn® (%s). Δοκιμάστε ξανά σε λίγα λεπτά."
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "Η ληφθείσα ενημέρωση απέτυχε στον έλεγχο ακεραιότητας και δεν εγκαταστάθηκε."

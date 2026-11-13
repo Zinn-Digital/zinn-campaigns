@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lo\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "ເຊື່ອມຕໍ່ເວັບໄຊ WordPress ຫຼື ຮ້ານຄ້າ WooCommerce ຂອງທ່ານກັບ Zinn® Campaigns ດ້ວຍການຄລິກພຽງຄັ້ງດຽວ ແລະ ຂະຫຍາຍລາຍຊື່ຂອງທ່ານດ້ວຍແບບຟອມສະໝັກຮັບຂໍ້ມູນແບບ double opt-in. ແຄມເປນອີເມວ, SMS ແລະ WhatsApp ແມ່ນຖືກສົ່ງມາຈາກບັນຊີ Zinn® Campaigns ຂອງທ່ານ."
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ຈັດການ Zinn® Campaigns ໃນເວັບໄຊນີ້."
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "ເວັບໄຊນີ້ເຊື່ອມຕໍ່ກັບ Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "ເວັບໄຊນີ້ຖືກຕັດການເຊື່ອມຕໍ່ແລ້ວ. ແບບຟອມລົງທະບຽນຢຸດການສົ່ງການລົງທະບຽນໃໝ່ໄປຍັງ Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "ການເຊື່ອມຕໍ່ນັ້ນໃຊ້ເວລາດົນເກີນໄປ ຫຼື ຖືກເລີ່ມຕົ້ນໃນໂປຣແກຣມທ່ອງເວັບອື່ນ. ກົດ ເຊື່ອມຕໍ່ ອີກຄັ້ງ."
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Zinn® ບໍ່ຍອມຮັບການເຊື່ອມຕໍ່. ກົດ ເຊື່ອມຕໍ່ ອີກຄັ້ງ; ຖ້າຍັງຫຼົ້ມເຫຼວຢູ່, ໃຫ້ຕິດຕໍ່ຝ່າຍຊ່ວຍເຫຼືອຂອງ Zinn®."
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "ເວັບໄຊຂອງທ່ານບໍ່ສາມາດຕິດຕໍ່ຫາ Zinn® ໄດ້. ກະລຸນາກວດສອບວ່າໂຮສຂອງທ່ານອະນຸຍາດການເຊື່ອມຕໍ່ຂາອອກຫຼືບໍ່, ຈາກນັ້ນກົດ «ເຊື່ອມຕໍ່ອີກຄັ້ງ»."
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "ສ່ວນເສີມ %s"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "ທ່ານຈະໄດ້ຮັບ Pro ຟຣີກັບທຸກແຜນ Zinn® Campaigns ທີ່ເສຍເງິນ: ບໍ່ມີໃບອະນຸຍາດແຍກຕ່າງຫາກທີ່ຕ້ອງຊື້. Pro ແມ່ນປລັກອິນເສີມແຍກຕ່າງຫາກທີ່ທ່ານດາວໂຫຼດຈາກແຜງໜ້າປັດ Zinn® ຂອງທ່ານ."
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "ຮວມຢູ່ແລ້ວ: ບັນຊີຂອງທ່ານມີແຜນ Zinn® Campaigns ແບບເສຍເງິນ."
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "ທົດລອງໃຊ້ຟຣີຈົນຮອດ %s. ເລືອກແພັກເກດ Zinn® Campaigns ແບບເສຍເງິນໃດກໍໄດ້ເພື່ອຮັກສາ Pro ໄວ້ຫຼັງຈາກນັ້ນ."
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "ບໍ່ໄດ້ລວມຢູ່ໃນຕອນນີ້: ການທົດລອງໃຊ້ຟຣີໄດ້ສິ້ນສຸດລົງແລ້ວ ຫຼື ແພັກເກດຍັງບໍ່ໄດ້ຊຳລະເງິນ. ການຕັ້ງຄ່າ Pro ຂອງທ່ານຖືກເກັບຮັກສາໄວ້ ແລະ ຈະກັບມາທັນທີທີ່ມີແພັກເກດທີ່ຊຳລະເງິນເຮັດວຽກຢູ່."
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "ເຊື່ອມຕໍ່ເວັບໄຊນີ້ເພື່ອເບິ່ງສິ່ງທີ່ແຜນຂອງທ່ານລວມມີ."
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "ດາວໂຫຼດສ່ວນເສີມ Pro"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "ເບິ່ງແຜນ Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "ແບບຟອມສະໝັກ"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "ເພີ່ມບລັອກ \"ແບບຟອມລົງທະບຽນ Zinn® Campaigns\" ໃສ່ໜ້າໃດໜຶ່ງ ຫຼື ໂພສໃດກໍໄດ້, ຫຼື ວາງຊອດໂຄ້ດຢູ່ລຸ່ມນີ້. ທຸກໆການລົງທະບຽນຈະໄດ້ຮັບອີເມວຢືນຢັນກ່ອນ (double opt-in), ແລະ ສະເພາະຜູ້ທີ່ຢືນຢັນເທົ່ານັ້ນທີ່ຈະເຂົ້າຮ່ວມລາຍຊື່ຂອງທ່ານ."
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "ບັນຊີຂອງທ່ານຍັງບໍ່ມີແບບຟອມລົງທະບຽນເທື່ອ. ສ້າງແບບຟອມໜຶ່ງໃນແຜງຄວບຄຸມ Zinn® ຂອງທ່ານພາຍໃຕ້ ແຄມເປນ, ແບບຟອມ, ຈາກນັ້ນກົດ ໂຫຼດຄືນໃໝ່."
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "ແບບຟອມ"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "ລາຍການ"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "ຊອດໂຄດ"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "ຂະຫຍາຍລາຍຊື່ຂອງທ່ານໃນເວັບໄຊນີ້ດ້ວຍແບບຟອມສະໝັກຮັບຂໍ້ມູນແບບຢືນຢັນສອງຂັ້ນຕອນ (double opt-in), ແລະ ສົ່ງແຄມເປນອີເມວ, SMS ແລະ WhatsApp ຈາກບັນຊີ Zinn® Campaigns ຂອງທ່ານ."
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "\"ເຊື່ອມຕໍ່\" ຈະເປີດ Zinn® ໃນໜ້າຕ່າງນີ້. ເຂົ້າສູ່ລະບົບ ຫຼື ສ້າງບັນຊີ, ອະນຸມັດເວັບໄຊນີ້, ແລ້ວທ່ານຈະກັບມານີ້ໂດຍກົງ. ທ່ານບໍ່ຈຳເປັນຕ້ອງວາງຄີໃດໆ ເລີຍ."
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "ເຊື່ອມຕໍ່ກັບ Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "ເຊື່ອມຕໍ່ແລ້ວ, ແຕ່ບໍ່ສາມາດຕິດຕໍ່ Zinn® ໄດ້ໃນຕອນນີ້. ພວກເຮົາຈະລອງໃໝ່ອີກໃນໄວໆນີ້."
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "ເວັບໄຊ"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "ເຊື່ອມຕໍ່ແລ້ວ"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "ເປີດສຳລັບບັນຊີຂອງທ່ານ"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "ຍັງບໍ່ທັນເປີດໃຫ້ໃຊ້ງານສຳລັບບັນຊີຂອງທ່ານເທື່ອ. Zinn® ຈະສົ່ງອີເມວຫາທ່ານເມື່ອພ້ອມໃຊ້ງານ."
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "ໂຫຼດຄືນໃໝ່"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "ຕັດການເຊື່ອມຕໍ່"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ເຊື່ອມຕໍ່ເວັບໄຊນີ້."
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ຕັດການເຊື່ອມຕໍ່ເວັບໄຊນີ້."
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "ຟອມລົງທະບຽນ Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "ເລືອກແບບຟອມ"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "ແບບຟອມສະໝັກສະມາຊິກແບບຢືນຢັນສອງຂັ້ນຕອນຈາກບັນຊີ Zinn® Campaigns ຂອງທ່ານ."
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "ແບບຟອມລົງທະບຽນ"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns: ເຊື່ອມຕໍ່ເວັບໄຊນີ້ ແລະ ເລືອກໜຶ່ງໃນແບບຟອມຂອງທ່ານເພື່ອສະແດງແບບຟອມລົງທະບຽນຢູ່ນີ້."
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "ລົງທະບຽນ"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "ຂໍຂອບໃຈ. ກະລຸນາກວດເບິ່ງກ່ອງຈົດໝາຍຂອງທ່ານ ແລະ ຄລິກລິ້ງໃນອີເມວຂອງພວກເຮົາເພື່ອຢືນຢັນ."
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "ປະວ່າງໄວ້"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "ທີ່ຢູ່ອີເມວ"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — ຄູ່ມື ແລະ ການບໍລິການ"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "ຄູ່ມືຜູ້ໃຊ້"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "ອ່ານຄູ່ມືຜູ້ໃຊ້ %s"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "ເຊື່ອງສິ່ງນີ້"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "ສະມາຊິກ Zinn® Pro: ທຸກໆປລັກອິນ Pro, ໃບອະນຸຍາດດຽວ"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "ລຸ້ນ Pro ຂອງ Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache ແລະ Zinn® Backups, ພ້ອມທັງທຸກປລັກອິນ Pro ທີ່ພວກເຮົາຈະເປີດຕົວຕໍ່ໄປ, ເລີ່ມຕົ້ນທີ່ %s ຕໍ່ປີ. ສະມາຊິກທີສອງຈະເພີ່ມ Zinn® Chat Pro."
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "ໂຮດຕິ້ງ Zinn® ສຳລັບ WordPress"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed, ການສຳຮອງຂໍ້ມູນປະຈຳວັນ, ການຍ້າຍເວັບໄຊຟຣີ ແລະ ແຜງຄວບຄຸມທີ່ສ້າງຂຶ້ນສຳລັບຜູ້ທີ່ດູແລຫຼາຍກວ່າໜຶ່ງເວັບໄຊ."
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "ຕະຫຼາດ Zinn®"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "ຊື້ ແລະ ຂາຍເວັບໄຊທີ່ມີມາກ່ອນ, ໂດເມນ ແລະ ການວາງລິ້ງ, ໂດຍເງິນຈະຖືກເກັບຮັກສາໄວ້ຢ່າງປອດໄພຈົນກວ່າທັງສອງຝ່າຍຈະພໍໃຈ."
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — ຈ້າງຄົນທີ່ປະກອບອາຊີບນີ້ເພື່ອຫາລ້ຽງຊີບ"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "ຕະຫຼາດຟຣີແລນສ໌ທົ່ວໂລກຂອງພວກເຮົາ: ເລືອກເບິ່ງຫຼາຍກວ່າ 10,000 ບໍລິການສຳເລັດຮູບຈາກນັກຂຽນ, ນັກອອກແບບ, ນັກພັດທະນາ ແລະ ຜູ້ຊ່ຽວຊານ SEO, ຫຼື ປະກາດໂຄງການແລ້ວໃຫ້ພວກເຂົາສະເໜີລາຄາ."
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "ເບິ່ງບັນທຶກການປ່ອຍເວີຊັນຂອງ Zinn Digital®."
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "ການບໍລິການອັບເດດ Zinn® ບໍ່ໄດ້ອອກລິ້ງດາວໂຫຼດສຳລັບການອັບເດດນີ້. ກະລຸນາກວດສອບວ່າເວັບໄຊນີ້ສາມາດເຂົ້າເຖິງແພລດຟອມ Zinn® ໄດ້ຫຼືບໍ່, ແລ້ວລອງໃໝ່ອີກຄັ້ງ."
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "ບໍ່ສາມາດດາວໂຫຼດການອັບເດດຈາກບໍລິການອັບເດດ Zinn® (%s). ກະລຸນາລອງໃໝ່ອີກຄັ້ງໃນອີກສອງສາມນາທີ."
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "ການອັບເດດທີ່ດາວໂຫຼດມາບໍ່ຜ່ານການກວດສອບຄວາມຖືກຕ້ອງສົມບູນ ແລະ ບໍ່ໄດ້ຖືກຕິດຕັ້ງ."

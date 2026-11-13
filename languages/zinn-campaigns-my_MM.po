@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: my_MM\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "သင့် WordPress ဆိုက် သို့မဟုတ် WooCommerce စတိုးကို ကလစ်တစ်ချက်နှိပ်ရုံဖြင့် Zinn® Campaigns နှင့် ချိတ်ဆက်ပြီး double opt-in စာရင်းသွင်းမှု ဖောင်များဖြင့် သင့်စာရင်းကို တိုးပွားစေပါ။ အီးမေးလ်၊ SMS နှင့် WhatsApp ကမ်ပိန်းများကို သင့် Zinn® Campaigns အကောင့်မှ ပေးပို့ပါသည်။"
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "ဤဆိုက်တွင် Zinn® Campaigns အား စီမံခန့်ခွဲရန် သင့်တွင် ခွင့်ပြုချက်မရှိပါ။"
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "ဤဆိုက်သည် Zinn® Campaigns သို့ ချိတ်ဆက်ထားသည်။"
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "ဤဆိုဒ်ကို ချိတ်ဆက်မှု ဖြုတ်ထားသည်။ စာရင်းသွင်းမှု ဖောင်များသည် အသစ်စာရင်းသွင်းမှုများကို Zinn® Campaigns သို့ ပေးပို့ခြင်းကို ရပ်တန့်ပါသည်။"
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "ထိုချိတ်ဆက်မှုသည် အချိန်ကြာမြင့်လွန်းသည် သို့မဟုတ် အခြားဘရောက်ဆာတစ်ခုတွင် စတင်ခဲ့သည်။ ချိတ်ဆက်ရန် ကို ထပ်မံနှိပ်ပါ။"
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Zinn® သည် ချိတ်ဆက်မှုကို လက်မခံပါ။ ချိတ်ဆက်မည် ကို ထပ်မံနှိပ်ပါ၊ မအောင်မြင်သေးပါက Zinn® ပံ့ပိုးကူညီရေးအဖွဲ့ထံ ဆက်သွယ်ပါ။"
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "သင့်ဆိုက်သည် Zinn® သို့ မချိတ်ဆက်နိုင်ပါ။ သင့်ဟိုစ့်သည် အထွက်ချိတ်ဆက်မှုများကို ခွင့်ပြုထားခြင်း ရှိမရှိ စစ်ဆေးပါ၊ ထို့နောက် «ထပ်မံချိတ်ဆက်ရန်» ကို နှိပ်ပါ။"
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "%s အပိုဆောင်းအစိတ်အပိုင်း"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "မည်သည့်အခပေး Zinn® Campaigns အစီအစဉ်နှင့်မဆို Pro ကို အခမဲ့ ရရှိနိုင်ပါသည်- သီးခြားဝယ်ယူရန် လိုင်စင်မလိုအပ်ပါ။ Pro သည် သင်၏ Zinn® ဒက်ရှ်ဘုတ်မှ ဒေါင်းလုဒ်လုပ်ရသော သီးခြား အပိုပလပ်အင်တစ်ခု ဖြစ်ပါသည်။"
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "ပါဝင်သည်- သင့်အကောင့်တွင် အခပေး Zinn® Campaigns အစီအစဉ်တစ်ခု ရှိသည်။"
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "%s အထိ အခမဲ့ အစမ်းသုံးခွင့်။ ၎င်းနောက်ပိုင်းတွင် Pro ကို ဆက်လက်အသုံးပြုရန် မည်သည့် အခပေး Zinn® Campaigns အစီအစဉ်ကိုမဆို ရွေးချယ်ပါ။"
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "လောလောဆယ် မပါဝင်ပါ- အခမဲ့အစမ်းသုံးကာလ ကုန်ဆုံးသွားပြီ သို့မဟုတ် အစီအစဉ်အတွက် ငွေမချေရသေးပါ။ သင်၏ Pro ဆက်တင်များကို ထိန်းသိမ်းထားပြီး အခပေးအစီအစဉ်တစ်ခု စတင်အသုံးပြုနိုင်သည်နှင့်တစ်ပြိုင်နက် ပြန်လည်ရရှိမည်ဖြစ်သည်။"
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "သင့်အစီအစဉ်တွင် မည်သည့်အရာများ ပါဝင်သည်ကို ကြည့်ရှုရန် ဤဝဘ်ဆိုက်ကို ချိတ်ဆက်ပါ။"
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "Pro အပိုထပ်ဆောင်းကို ဒေါင်းလုဒ်လုပ်ပါ"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "Zinn® Campaigns အစီအစဉ်များကို ကြည့်ရှုပါ"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "အကောင့်ဖွင့် ဖောင်များ"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "မည်သည့်စာမျက်နှာ သို့မဟုတ် ပို့စ်တွင်မဆို \"Zinn® Campaigns စာရင်းသွင်းမှု ဖောင်\" ဘလောက်ကို ထည့်ပါ၊ သို့မဟုတ် အောက်တွင် shortcode ကို ကူးထည့်ပါ။ စာရင်းသွင်းမှုတိုင်းသည် အတည်ပြုအီးမေးလ်ကို ဦးစွာရရှိမည်ဖြစ်ပြီး (double opt-in)၊ အတည်ပြုသူများသာ သင့်စာရင်းသို့ ဝင်ရောက်နိုင်မည်ဖြစ်သည်။"
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "သင့်အကောင့်တွင် စာရင်းသွင်းရန် ဖောင်များ မရှိသေးပါ။ ကမ်ပိန်းများ၊ ဖောင်များ အောက်ရှိ သင့် Zinn® ဒက်ရှ်ဘုတ်တွင် တစ်ခုကို ဖန်တီးပါ၊ ထို့နောက် ပြန်လည်စတင်ရန် ကို နှိပ်ပါ။"
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "ဖောင်"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "စာရင်း"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "ကုဒ်တို"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "နှစ်ဆင့်အတည်ပြု အကောင့်ဖွင့်ပုံစံများဖြင့် ဤဆိုက်တွင် သင့်စာရင်းကို တိုးပွားစေပြီး သင့် Zinn® Campaigns အကောင့်မှ အီးမေးလ်၊ SMS နှင့် WhatsApp ကမ်ပိန်းများကို ပေးပို့ပါ။"
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "“ချိတ်ဆက်ရန်” သည် Zinn® ကို ဤဝင်းဒိုးတွင် ဖွင့်ပေးသည်။ အကောင့်ဝင်ပါ သို့မဟုတ် အကောင့်တစ်ခုဖွင့်ပါ၊ ဤဆိုက်ကို အတည်ပြုပါ၊ ပြီးလျှင် ဤနေရာသို့ တိုက်ရိုက်ပြန်ရောက်ပါမည်။ သင် မည်သည့်ကီးကိုမျှ ကူးထည့်ရန် မလိုပါ။"
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "Zinn® Campaigns သို့ ချိတ်ဆက်ပါ"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "ချိတ်ဆက်ထားသော်လည်း ယခုအချိန်တွင် Zinn® သို့ မရောက်ရှိနိုင်ပါ။ မကြာမီ ထပ်မံကြိုးစားပါမည်။"
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "ဝဘ်ဆိုက်"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "ချိတ်ဆက်ထားသည်"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "သင့်အကောင့်အတွက် ဖွင့်ထားသည်"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "သင့်အကောင့်အတွက် မဖွင့်သေးပါ။ အဆင်သင့်ဖြစ်ပါက Zinn® က သင့်ထံ အီးမေးလ် ပေးပို့ပါမည်။"
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "ပြန်လည်စတင်ရန်"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "ချိတ်ဆက်မှု ဖြတ်ရန်"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "ဤဝဘ်ဆိုက်ကို ချိတ်ဆက်ရန် သင့်တွင် ခွင့်ပြုချက်မရှိပါ။"
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "ဤဆိုဒ်ကို ချိတ်ဆက်မှုဖြုတ်ရန် သင့်တွင် ခွင့်ပြုချက်မရှိပါ။"
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "Zinn® Campaigns မှတ်ပုံတင်ပုံစံ"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "ဖောင်တစ်ခု ရွေးပါ"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "သင်၏ Zinn® Campaigns အကောင့်မှ အဆင့်နှစ်ဆင့်အတည်ပြု အကောင့်ဖွင့်ခြင်းဖောင်။"
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "အကောင့်ဖွင့်ရန် ဖောင်"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns- ဤဆိုဒ်ကို ချိတ်ဆက်ပြီး ဤနေရာတွင် စာရင်းသွင်းမှု ဖောင်တစ်ခု ပြသရန် သင်၏ ဖောင်များထဲမှ တစ်ခုကို ရွေးချယ်ပါ။"
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "အကောင့်ဖွင့်ရန်"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "ကျေးဇူးတင်ပါသည်။ အတည်ပြုရန် သင့်အဝင်စာပုံးကို စစ်ဆေးပြီး ကျွန်ုပ်တို့၏ အီးမေးလ်ထဲရှိ လင့်ခ်ကို နှိပ်ပါ။"
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "ဤနေရာကို အလွတ်ထားပါ"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "အီးမေးလ်လိပ်စာ"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — လမ်းညွှန်များနှင့် ဝန်ဆောင်မှုများ"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "အသုံးပြုသူလမ်းညွှန်များ"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "%s အသုံးပြုသူလမ်းညွှန်ကို ဖတ်ပါ"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "ဒါကို ဝှက်ထားပါ"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "Zinn® Pro အသင်းဝင်ခြင်း- Pro ပလပ်အင်တိုင်း၊ လိုင်စင်တစ်ခု"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "Page Builder Sandwich၊ Tranzly၊ Zinn® SEO၊ Zinn® Cache နှင့် Zinn® Backups တို့၏ Pro ဗားရှင်းများနှင့် နောက်ထပ် ကျွန်ုပ်တို့ ဖြန့်ချိမည့် Pro ပလပ်အင်တိုင်းကို တစ်နှစ်လျှင် %s မှ စတင်ရရှိနိုင်ပါသည်။ ဒုတိယ အသင်းဝင်ခွင့်တွင် Zinn® Chat Pro ပါဝင်လာပါမည်။"
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "WordPress အတွက် Zinn® ဟိုးစတင်း"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed၊ နေ့စဉ် ဘက်ခ်အပ်များ၊ အခမဲ့ ရွှေ့ပြောင်းပေးခြင်းနှင့် ဝဘ်ဆိုက်တစ်ခုထက်ပို၍ စီမံခန့်ခွဲသူများအတွက် ရည်ရွယ်တည်ဆောက်ထားသော ထိန်းချုပ်ခန်း။"
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "Zinn® စျေးကွက်"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "နှစ်ဖက်စလုံး ကျေနပ်မှုမရှိမချင်း ငွေကြေးကို လုံခြုံစွာ ထိန်းသိမ်းထားပေးပြီး အခြေတည်ပြီးသား ဝဘ်ဆိုက်များ၊ ဒိုမိန်းများနှင့် လင့်ခ်နေရာချထားမှုများကို ရောင်းဝယ်ဖောက်ကားပါ။"
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — ဤအလုပ်ဖြင့် အသက်မွေးဝမ်းကျောင်းပြုသူများကို ငှားရမ်းပါ"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "ကျွန်ုပ်တို့၏ ကမ္ဘာလုံးဆိုင်ရာ ဖရီးလန့်စ် စျေးကွက်- စာရေးဆရာများ၊ ဒီဇိုင်နာများ၊ ဒက်ဗလော့ပါများနှင့် SEOs များထံမှ အဆင်သင့်လုပ်ထားသော ဝန်ဆောင်မှုပေါင်း ၁၀,၀၀၀ ကျော်ကို ကြည့်ရှုပါ၊ သို့မဟုတ် ပရောဂျက်တစ်ခု တင်ပြီး သူတို့အား လေလံဆွဲခိုင်းပါ။"
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "Zinn Digital® ဖြန့်ချိမှုမှတ်စုများကို ကြည့်ရှုပါ။"
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "Zinn® အပ်ဒိတ်ဝန်ဆောင်မှုသည် ဤအပ်ဒိတ်အတွက် ဒေါင်းလုဒ်လင့်ခ်တစ်ခု မထုတ်ပေးပါ။ ဤဆိုက်သည် Zinn® ပလက်ဖောင်းသို့ ချိတ်ဆက်နိုင်မနိုင် စစ်ဆေးပြီးနောက် ထပ်မံကြိုးစားပါ။"
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "အပ်ဒိတ်ကို Zinn® အပ်ဒိတ်ဝန်ဆောင်မှု (%s) မှ ဒေါင်းလုဒ်လုပ်၍ မရပါ။ မိနစ်အနည်းငယ်အတွင်း ထပ်မံကြိုးစားပါ။"
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "ဒေါင်းလုဒ်လုပ်ထားသော အပ်ဒိတ်သည် ခိုင်မာမှုစစ်ဆေးခြင်း မအောင်မြင်သဖြင့် ထည့်သွင်းခြင်း မပြုခဲ့ပါ။"

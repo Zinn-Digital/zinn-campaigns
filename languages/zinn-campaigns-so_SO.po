@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: so_SO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "Ku xir goobtaada WordPress ama dukaankaaga WooCommerce Zinn® Campaigns hal gujin oo ku kobci liiskaaga foomamka is-diiwaangelinta ee xaqiijinta labanlaabka ah leh. Ololayaasha iimaylka, SMS-ka iyo WhatsApp-ka waxaa laga soo diraa koontadaada Zinn® Campaigns."
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "Laguma ogola inaad ku maamusho Zinn® Campaigns boggan."
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "Boggan waxa uu ku xidhan yahay Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "Boggan waa la gooyay. Foomamka is-diiwaangelinta waxay joojinayaan u dirista diiwaangelinta cusub Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "Xiriirkaasi waxa uu qaatay waqti aad u dheer ama waxa laga bilaabay biraawsar kale. Riix Ku xidh mar kale."
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Zinn® ma aqbalin xiriirka. Mar labaad taabo Ku xir; haddii ay sii guuldarraysato, la xiriir taageerada Zinn®."
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "Boggaagu ma gaari karin Zinn®. Hubi in martigeliyahaagu u oggol yahay isku xirnaanta dibadda, ka dibna riix «Mar kale ku xir»."
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "Kordhinta %s"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "Waxaad ku helaysaa Pro bilaash qorshe kasta oo lacag bixin ah oo Zinn® Campaigns ah: ma jirto ruqsad gooni ah oo la gadanayo. Pro waa furin (plugin) dheeraad ah oo gooni ah oo aad ka soo dejisanayso dashboard-kaaga Zinn®."
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "Ku jira: koontadaadu waxay leedahay qorshaha lacag bixinta ee Zinn® Campaigns."
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "Tijaabo bilaash ah ilaa %s. Dooro qorshe kasta oo lacag bixin ah oo Zinn® Campaigns ah si aad u sii haysato Pro intaa ka dib."
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "Hadda kuma jiraan: tijaabadii bilaashka ahayd way dhammaatay ama qorshaha lama bixin. Dejintaada Pro waa la hayaa waxayna soo noqon doonaan isla marka uu qorshe lacag ah shaqeeyo."
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "Ku xidh boggan si aad u aragto waxa qorshahaagu ka kooban yahay."
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "Soo dejiso kordhinta Pro"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "Eeg qorshayaasha Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "Foomamka is-diiwaangelinta"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "Ku dar baloogga \"Foomka isdiiwaangelinta Zinn® Campaigns\" bog ama qoraal kasta, ama hoos ku dheji kood gaaban (shortcode). Qof kasta oo isdiiwaangeliya wuxuu marka hore helayaa iimayl xaqiijin ah (oggolaansho labanlaab ah), waxaana liiskaaga ku biiraya oo keliya dadka xaqiijiya."
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "Koontadaadu weli ma laha foomamka is-diiwaangelinta. Mid ku samee dashboard-kaaga Zinn® ee hoos yimaada Ololayaasha, Foomamka, ka dibna taabo Cusbooneysii."
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "Foom"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "Liis"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "Kood gaaban"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "Ku kordhi liiskaaga goobtan foomamka is-diiwaangelinta ee xaqiijinta labanlaabka ah, oo ka dir ololayaasha iimaylka, SMS-ka iyo WhatsApp-ka koontadaada Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "\"Ku xir\" waxay ku furaysaa Zinn® daaqaddan. Soo gal ama sameyso koonto, oggolow boggan, waxaadna si toos ah ugu soo laabanaysaa halkan. Weligaa ma dhejinaysid fure."
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "Ku xidh Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "Waa ku xidhan yahay, laakiin Zinn® lama gaadhi karin hadda. Wax yar ka dib ayaannu mar kale isku dayi doonnaa."
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "Bogga"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "Ku xiran"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "U furan koontadaada"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "Weli uma furna koontadaada. Zinn® ayaa iimayl kuu soo diri doona marka ay diyaar noqoto."
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "Cusboonaysii"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "Kala xiriir"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "Lama oggola inaad ku xirto boggan."
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "Lama kuu oggola inaad goyso goobtan."
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "Foomka isdiiwaangelinta Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "Dooro foom"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "Foomka isdiiwaangelinta ee xaqiijinta labanlaabka ah ee ka socda koontadaada Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "Foomka isdiiwaangelinta"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns: ku xidh goobtan oo dooro mid ka mid ah foomamkaaga si aad halkan ugu muujiso foomka is-diiwaangelinta."
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "Isku qor"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "Waad mahadsan tahay. Hubi sanduuqaaga fariimaha soo dhaca oo guji xiriirinta ku jirta iimaylkayaga si aad u xaqiijiso."
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "Tan banooni ka tag"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "Cinwaanka iimaylka"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — hagayaal iyo adeegyo"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "Hagayaasha isticmaalaha"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "Akhriso hagaha isticmaalaha %s"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "Qari kan"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "Xubinnimada Zinn® Pro: qalab kasta oo Pro ah, hal ruqsad"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "Noocyada Pro ee Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache iyo Zinn® Backups, iyo plugin kasta oo Pro ah oo aan xiga soo saarno, laga bilaabo %s sannadkii. Xubin labaad waxay ku daraysaa Zinn® Chat Pro."
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "Martigelinta Zinn® ee WordPress"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed, kaydin maalinle ah, raritaan bilaash ah iyo qaybta maamulka oo loo dhisay dadka maamula wax ka badan hal goob."
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "Suuqa Zinn®"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "Iibso oo iibi goobaha dhisan, magacyada domain-ka iyo meelaynta xiriiriyeyaasha, iyada oo lacagta si ammaan ah loo hayo ilaa labada dhinacba ay ku qancaan."
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — shaqaalayso dad shaqadani noloshooda tahay"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "Suuqa xorta ah ee caalamiga ah ee aan bixinno: baar in ka badan 10,000 adeeg oo diyaarsan oo ay bixinayaan qoraayaal, naqshadeeyayaal, sameeyayaal softiweer iyo khubaro SEO, ama daabac mashruuc si ay ugu tartamaan."
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "Eeg qoraalada soo-saarista Zinn Digital®."
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "Adeegga cusboonaysiinta ee Zinn® ma uusan soo saarin xiriirinta soo dejinta ee cusboonaysiintan. Hubi in goobtani ay gaari karto madal-ka Zinn®, ka dibna mar kale isku day."
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "Cusbooneysiinta lagama soo dejisan karin adeegga cusbooneysiinta ee Zinn® (%s). Fadlan isku day mar kale dhowr daqiiqo gudahood."
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "Cusboonaysiinta la soo dejiyay kuma guulaysan hubinta saxnimada lamana rakibin."

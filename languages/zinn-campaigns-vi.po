@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "Kết nối trang web WordPress hoặc cửa hàng WooCommerce của bạn với Zinn® Campaigns chỉ bằng một cú nhấp chuột và phát triển danh sách của bạn bằng các biểu mẫu đăng ký xác nhận kép. Các chiến dịch email, SMS và WhatsApp được gửi từ tài khoản Zinn® Campaigns của bạn."
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "Bạn không được phép quản lý Zinn® Campaigns trên trang web này."
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "Trang web này được kết nối với Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "Trang web này đã bị ngắt kết nối. Các biểu mẫu đăng ký ngừng gửi thông tin đăng ký mới tới Zinn® Campaigns."
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "Kết nối đó mất quá nhiều thời gian hoặc đã được bắt đầu trong một trình duyệt khác. Nhấn Kết nối lại lần nữa."
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Zinn® không chấp nhận kết nối. Nhấn Kết nối lại; nếu vẫn thất bại, hãy liên hệ với bộ phận hỗ trợ của Zinn®."
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "Trang web của bạn không thể kết nối tới Zinn®. Hãy kiểm tra xem máy chủ lưu trữ của bạn có cho phép các kết nối đi hay không, sau đó nhấn «Kết nối lại»."
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "Tiện ích bổ sung %s"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "Bạn được nhận Pro miễn phí với bất kỳ gói Zinn® Campaigns trả phí nào: không cần phải mua giấy phép riêng. Pro là một plugin bổ trợ riêng biệt mà bạn tải xuống từ bảng điều khiển Zinn® của mình."
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "Đã bao gồm: tài khoản của bạn có gói Zinn® Campaigns trả phí."
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "Dùng thử miễn phí đến %s. Hãy chọn bất kỳ gói Zinn® Campaigns trả phí nào để tiếp tục duy trì Pro sau thời gian đó."
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "Hiện không được bao gồm: bản dùng thử miễn phí đã kết thúc hoặc gói chưa được thanh toán. Các cài đặt Pro của bạn được giữ lại và sẽ quay trở lại ngay khi gói trả phí hoạt động."
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "Kết nối trang web này để xem gói của bạn bao gồm những gì."
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "Tải xuống tiện ích bổ sung Pro"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "Xem các gói Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "Biểu mẫu đăng ký"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "Thêm khối \"Biểu mẫu đăng ký Zinn® Campaigns\" vào bất kỳ trang hoặc bài viết nào, hoặc dán một mã ngắn (shortcode) vào bên dưới. Mỗi lượt đăng ký trước tiên sẽ nhận được một email xác nhận (xác nhận kép), và chỉ những người xác nhận mới được thêm vào danh sách của bạn."
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "Tài khoản của bạn chưa có biểu mẫu đăng ký nào. Hãy tạo một biểu mẫu trong bảng điều khiển Zinn® của bạn trong mục Chiến dịch, Biểu mẫu, sau đó nhấn Làm mới."
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "Biểu mẫu"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "Danh sách"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "Mã ngắn"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "Phát triển danh sách của bạn trên trang web này bằng các biểu mẫu đăng ký xác nhận hai bước, đồng thời gửi các chiến dịch email, SMS và WhatsApp từ tài khoản Zinn® Campaigns của bạn."
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "\"Kết nối\" sẽ mở Zinn® trong cửa sổ này. Đăng nhập hoặc tạo tài khoản, phê duyệt trang web này và bạn sẽ quay lại ngay đây. Bạn không bao giờ phải dán khóa."
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "Kết nối với Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "Đã kết nối, nhưng hiện tại không thể kết nối tới Zinn®. Chúng tôi sẽ thử lại sớm."
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "Trang web"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "Đã kết nối"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "Mở cho tài khoản của bạn"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "Chưa mở cho tài khoản của bạn. Zinn® sẽ gửi email cho bạn khi tính năng sẵn sàng."
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "Làm mới"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "Ngắt kết nối"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "Bạn không được phép kết nối trang web này."
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "Bạn không được phép ngắt kết nối trang web này."
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "Biểu mẫu đăng ký Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "Chọn một biểu mẫu"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "Biểu mẫu đăng ký xác nhận hai bước từ tài khoản Zinn® Campaigns của bạn."
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "Biểu mẫu đăng ký"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns: hãy kết nối trang web này và chọn một trong các biểu mẫu của bạn để hiển thị biểu mẫu đăng ký tại đây."
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "Đăng ký"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "Cảm ơn bạn. Hãy kiểm tra hộp thư đến và nhấp vào liên kết trong email của chúng tôi để xác nhận."
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "Để trống phần này"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "Địa chỉ email"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — hướng dẫn và dịch vụ"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "Hướng dẫn sử dụng"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "Đọc hướng dẫn sử dụng %s"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "Ẩn mục này"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "Gói thành viên Zinn® Pro: mọi plugin Pro, một giấy phép"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "Các phiên bản Pro của Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache và Zinn® Backups, cùng mọi plugin Pro tiếp theo mà chúng tôi phát hành, chỉ từ %s mỗi năm. Gói thành viên thứ hai sẽ bổ sung thêm Zinn® Chat Pro."
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "Lưu trữ Zinn® cho WordPress"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed, sao lưu hàng ngày, chuyển dữ liệu miễn phí và bảng điều khiển được thiết kế dành cho những người quản lý nhiều trang web."
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "Thị trường Zinn®"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "Mua và bán các trang web đã thành lập, tên miền và vị trí đặt liên kết, với số tiền được giữ an toàn cho đến khi cả hai bên đều hài lòng."
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — thuê những người kiếm sống bằng công việc này"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "Thị trường làm việc tự do toàn cầu của chúng tôi: duyệt qua hơn 10.000 dịch vụ có sẵn từ các nhà văn, nhà thiết kế, nhà phát triển và chuyên gia SEO, hoặc đăng dự án để họ chào giá."
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "Xem ghi chú phát hành của Zinn Digital®."
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "Dịch vụ cập nhật Zinn® đã không cung cấp liên kết tải xuống cho bản cập nhật này. Hãy kiểm tra xem trang web này có thể kết nối với nền tảng Zinn® hay không, sau đó thử lại."
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "Không thể tải xuống bản cập nhật từ dịch vụ cập nhật Zinn® (%s). Vui lòng thử lại sau vài phút."
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "Bản cập nhật đã tải xuống không vượt qua được bước kiểm tra tính toàn vẹn và chưa được cài đặt."

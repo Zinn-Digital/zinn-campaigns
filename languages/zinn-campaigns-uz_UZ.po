@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uz_UZ\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "Birgina bosish orqali WordPress saytingizni yoki WooCommerce doʻkoningizni Zinn® Campaigns bilan ulang va ikki bosqichli tasdiqlash shakllari yordamida roʻyxatingizni kengaytiring. E-pochta, SMS va WhatsApp kampaniyalari Zinn® Campaigns hisobingizdan yuboriladi."
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "Ushbu saytda Zinn® Campaigns boshqarish uchun sizga ruxsat berilmagan."
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "Ushbu sayt Zinn® Campaigns xizmatiga ulangan."
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "Ushbu sayt uzilgan. Roʻyxatdan oʻtish shakllari Zinn® Campaigns xizmatiga yangi aʼzolarni yuborishni toʻxtatadi."
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "Ushbu ulanish juda koʻp vaqt oldi yoki boshqa brauzerda boshlandi. Ulanish tugmasini yana bir bor bosing."
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Zinn® ulanishni qabul qilmadi. Yana Ulanish tugmasini bosing; agar xatolik takrorlanaversa, Zinn® qo‘llab-quvvatlash xizmatiga murojaat qiling."
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "Saytingiz Zinn® bilan bogʻlana olmadi. Hosting provayderingiz chiquvchi ulanishlarga ruxsat berishini tekshiring, soʻngra «Qayta ulanish» tugmasini bosing."
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "%s plagini"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "Har qanday pullik Zinn® Campaigns tarifi bilan Pro versiyasini bepul olasiz: alohida litsenziya sotib olish shart emas. Pro — bu Zinn® boshqaruv panelingizdan yuklab olinadigan alohida qoʻshimcha plagin."
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "Kiritilgan: hisobingizda pulli Zinn® Campaigns rejasi mavjud."
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "%s sanasigacha bepul sinov muddati. Undan keyin ham Pro versiyasini saqlab qolish uchun istalgan pulli Zinn® Campaigns tarifini tanlang."
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "Hozirda kiritilmagan: bepul sinov muddati tugagan yoki tarif rejasi uchun toʻlov qilinmagan. Pro sozlamalaringiz saqlanadi va pullik tarif rejasi faollashgan paytda qaytariladi."
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "Rejangizga nimalar kiritilganini koʻrish uchun ushbu saytni ulang."
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "Pro kengaytmasini yuklab oling"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "Zinn® Campaigns rejalarini ko‘rish"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "Roʻyxatdan oʻtish shakllari"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "\"Zinn® Campaigns roʻyxatdan oʻtish shakli\" blokini istalgan sahifaga yoki postga qoʻshing yoki quyiga qisqa kodni joylashtiring. Har bir roʻyxatdan oʻtishda avval tasdiqlash xati yuboriladi (ikki bosqichli rozilik) va faqat tasdiqlagan odamlar roʻyxatingizga qoʻshiladi."
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "Hisobingizda hali hech qanday ro‘yxatdan o‘tish shakllari yo‘q. Zinn® boshqaruv panelingizda Kampaniyalar, Shakllar ostida bittasini yarating, so‘ng Yangilash tugmasini bosing."
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "Shakl"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "Roʻyxat"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "Qisqa kod"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "Ushbu saytda ikki bosqichli tasdiqlashga ega roʻyxatdan oʻtish shakllari yordamida roʻyxatingizni kengaytiring hamda Zinn® Campaigns hisobingizdan elektron pochta, SMS va WhatsApp kampaniyalarini yuboring."
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "“Ulanish” ushbu oynada Zinn®-ni ochadi. Tizimga kiring yoki hisob yarating, ushbu saytni tasdiqlang va siz toʻgʻridan-toʻgʻri shu yerga qaytasiz. Hech qachon kalitni joylashtirmaysiz."
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "Zinn® Campaigns xizmatiga ulanish"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "Ulandi, lekin hozirda Zinn® bilan bogʻlanib boʻlmadi. Tez orada yana urinib koʻramiz."
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "Sayt"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "Ulandi"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "Hisobingiz uchun ochiq"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "Hisobingiz uchun hali ochilmagan. Tayyor bo‘lganda Zinn® sizga elektron pochta xabarini yuboradi."
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "Yangilang"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "Uzish"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "Ushbu saytni ulashga sizga ruxsat berilmagan."
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "Ushbu saytni uzishga ruxsatingiz yoʻq."
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "Zinn® Campaigns roʻyxatdan oʻtish formasi"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "Shaklni tanlang"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "Zinn® Campaigns hisobingizdan ikki tomonlama tasdiqlash bilan roʻyxatdan oʻtish shakli."
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "Roʻyxatdan oʻtish shakli"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns: bu saytni ulang va bu yerda roʻyxatdan oʻtish formasini koʻrsatish uchun formalaringizdan birini tanlang."
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "Roʻyxatdan oʻting"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "Rahmat. Kiruvchi xabarlar qutingizni tekshiring va tasdiqlash uchun xatimizdagi havolani bosing."
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "Buni boʻsh qoldiring"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "E-pochta manzili"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — qoʻllanmalar va xizmatlar"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "Foydalanuvchi qoʻllanmalari"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "%s foydalanuvchi qoʻllanmasini oʻqing"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "Buni yashirish"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "Zinn® Pro aʼzoligi: har bir Pro plagini, bitta litsenziya"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache va Zinn® Backups plaginlarining Pro versiyalari hamda biz keyinchalik chiqaradigan har bir Pro plagin yiliga %s dan boshlanadi. Ikkinchi aʼzolik Zinn® Chat Pro-ni qoʻshadi."
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "WordPress uchun Zinn® xostingi"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed, har kungi zaxira nusxalari, bepul koʻchirish va birdan ortiq saytni boshqaradigan odamlar uchun yaratilgan boshqaruv paneli."
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "Zinn® bozori"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "Har ikki tomon rozi boʻlguniga qadar mablagʻlar xavfsiz saqlangan holda, faoliyat yuritayotgan saytlar, domenlar va havola joylashtirishlarini xarid qiling hamda soting."
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — tirikchiligini shu ish bilan oʻtkazadigan kishilarni yollang"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "Bizning global frilans bozorimiz: yozuvchilar, dizaynerlar, dasturchilar va SEO mutaxassislarining 10 000 dan ortiq tayyor xizmatlarini koʻrib chiqing yoki loyiha joylashtiring va ularga taklif kiritish imkonini bering."
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "Zinn Digital® reliz qaydlarini koʻring."
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "Zinn® yangilash xizmati ushbu yangilanish uchun yuklab olish havolasini taqdim etmadi. Ushbu sayt Zinn® platformasiga ulana olishini tekshiring, soʻng qayta urinib koʻring."
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "Yangilanishni Zinn® yangilash xizmatidan (%s) yuklab boʻlmadi. Bir necha daqiqadan soʻng qayta urinib koʻring."
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "Yuklab olingan yangilanish yaxlitlik tekshiruvidan o‘tmadi va o‘rnatilmadi."

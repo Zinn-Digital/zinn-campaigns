@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zinn-campaigns\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: zinn-campaigns\n"
+"X-Generator: scripts/wp-i18n-translate.py\n"
+
+#. Plugin Name of the plugin
+#: zinn-campaigns.php
+msgid "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+msgstr "Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More"
+
+#. Plugin URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+msgstr "https://zinndigital.com/wordpress-plugins/zinn-campaigns"
+
+#. Description of the plugin
+#: zinn-campaigns.php
+msgid "Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account."
+msgstr "ఒకే క్లిక్‌తో మీ WordPress సైట్ లేదా WooCommerce స్టోర్‌ను Zinn® Campaignsకి కనెక్ట్ చేయండి మరియు double opt-in సైన్-అప్ ఫారమ్‌లతో మీ జాబితాను పెంచుకోండి. ఇమెయిల్, SMS మరియు WhatsApp ప్రచారాలు మీ Zinn® Campaigns ఖాతా నుండి పంపబడతాయి."
+
+#. Author of the plugin
+#: zinn-campaigns.php
+msgid "Neil Lock — CEO, Zinn Digital® Ltd"
+msgstr "Neil Lock — CEO, Zinn Digital® Ltd"
+
+#. Author URI of the plugin
+#: zinn-campaigns.php
+msgid "https://zinndigital.com"
+msgstr "https://zinndigital.com"
+
+#: includes/class-zinn-campaigns-admin.php:38
+#: includes/class-zinn-campaigns-admin.php:39
+#: includes/class-zinn-campaigns-admin.php:209
+#: includes/class-zinn-campaigns-admin.php:228
+msgid "Zinn® Campaigns"
+msgstr "Zinn® Campaigns"
+
+#: includes/class-zinn-campaigns-admin.php:90
+msgid "You are not allowed to manage Zinn® Campaigns on this site."
+msgstr "ఈ సైట్‌లో Zinn® Campaignsను నిర్వహించడానికి మీకు అనుమతి లేదు."
+
+#: includes/class-zinn-campaigns-admin.php:106
+msgid "This site is connected to Zinn® Campaigns."
+msgstr "ఈ సైట్ Zinn® Campaignsకి కనెక్ట్ చేయబడింది."
+
+#: includes/class-zinn-campaigns-admin.php:107
+msgid "This site is disconnected. Sign-up forms stop sending new sign-ups to Zinn® Campaigns."
+msgstr "ఈ సైట్ డిస్‌కనెక్ట్ చేయబడింది. సైన్-అప్ ఫారమ్‌లు Zinn® Campaigns కి కొత్త సైన్-అప్‌లను పంపడం ఆపివేస్తాయి."
+
+#: includes/class-zinn-campaigns-admin.php:108
+msgid "That connection took too long or was started in another browser. Press Connect again."
+msgstr "ఆ కనెక్షన్‌కు చాలా సమయం పట్టింది లేదా మరొక బ్రౌజర్‌లో ప్రారంభించబడింది. మళ్లీ కనెక్ట్ చేయి నొక్కండి."
+
+#: includes/class-zinn-campaigns-admin.php:109
+msgid "Zinn® did not accept the connection. Press Connect again; if it keeps failing, contact Zinn® support."
+msgstr "Zinn® కనెక్షన్‌ను అంగీకరించలేదు. మళ్లీ 'కనెక్ట్ చేయి'ని నొక్కండి; అది విఫలమవుతూనే ఉంటే, Zinn® మద్దతును సంప్రదించండి."
+
+#: includes/class-zinn-campaigns-admin.php:110
+msgid "Your site could not reach Zinn®. Check that your host allows outgoing connections, then press Connect again."
+msgstr "మీ సైట్ Zinn®ని చేరుకోలేకపోయింది. మీ హోస్ట్ అవుట్‌గోయింగ్ కనెక్షన్‌లను అనుమతిస్తుందో లేదో తనిఖీ చేయండి, ఆపై «మళ్లీ కనెక్ట్ చేయి» నొక్కండి."
+
+#. translators: %s: the add-on plugin's brand name, Zinn® Campaigns Pro.
+#: includes/class-zinn-campaigns-admin.php:156
+#, php-format
+msgid "The %s add-on"
+msgstr "%s యాడ్-ఆన్"
+
+#: includes/class-zinn-campaigns-admin.php:160
+msgid "You get Pro free with any paid Zinn® Campaigns plan: there is no separate licence to buy. Pro is a separate add-on plugin you download from your Zinn® dashboard."
+msgstr "మీరు ఏదైనా చెల్లింపు Zinn® Campaigns ప్లాన్‌తో Proని ఉచితంగా పొందుతారు: కొనుగోలు చేయడానికి ప్రత్యేక లైసెన్స్ ఏదీ లేదు. Pro అనేది మీ Zinn® డ్యాష్‌బోర్డ్ నుండి డౌన్‌లోడ్ చేసుకునే ప్రత్యేక యాడ్-ఆన్ ప్లగిన్."
+
+#: includes/class-zinn-campaigns-admin.php:162
+msgid "Included: your account has a paid Zinn® Campaigns plan."
+msgstr "చేర్చబడింది: మీ ఖాతాలో చెల్లింపుతో కూడిన Zinn® Campaigns ప్లాన్ ఉంది."
+
+#. translators: %s: the date the free Pro trial ends.
+#: includes/class-zinn-campaigns-admin.php:166
+#, php-format
+msgid "Free trial until %s. Pick any paid Zinn® Campaigns plan to keep Pro after that."
+msgstr "%s వరకు ఉచిత ట్రయల్. ఆ తర్వాత కూడా Proను కొనసాగించడానికి ఏదైనా చెల్లింపు Zinn® Campaigns ప్లాన్‌ను ఎంచుకోండి."
+
+#: includes/class-zinn-campaigns-admin.php:168
+msgid "Not included right now: the free trial has ended or the plan is not paid. Your Pro settings are kept and come back the moment a paid plan is live."
+msgstr "ప్రస్తుతం చేర్చబడలేదు: ఉచిత ట్రయల్ ముగిసింది లేదా ప్లాన్‌కు రుసుము చెల్లించబడలేదు. మీ Pro సెట్టింగ్‌లు భద్రపరచబడతాయి మరియు చెల్లింపు ప్లాన్ సక్రియమైన వెంటనే తిరిగి వస్తాయి."
+
+#: includes/class-zinn-campaigns-admin.php:170
+msgid "Connect this site to see what your plan includes."
+msgstr "మీ ప్లాన్‌లో ఏముందో చూడటానికి ఈ సైట్‌ను కనెక్ట్ చేయండి."
+
+#: includes/class-zinn-campaigns-admin.php:173
+msgid "Download the Pro add-on"
+msgstr "Pro యాడ్-ఆన్‌ను డౌన్‌లోడ్ చేయండి"
+
+#: includes/class-zinn-campaigns-admin.php:174
+msgid "See Zinn® Campaigns plans"
+msgstr "Zinn® Campaigns ప్లాన్‌లను చూడండి"
+
+#: includes/class-zinn-campaigns-admin.php:181
+msgid "Sign-up forms"
+msgstr "సైన్-అప్ ఫారమ్‌లు"
+
+#: includes/class-zinn-campaigns-admin.php:182
+msgid "Add the \"Zinn® Campaigns sign-up form\" block to any page or post, or paste a shortcode below. Every sign-up gets a confirmation e-mail first (double opt-in), and only people who confirm join your list."
+msgstr "ఏదైనా పేజీ లేదా పోస్ట్‌కి \"Zinn® Campaigns సైన్-అప్ ఫారమ్\" బ్లాక్‌ని జోడించండి లేదా క్రింద షార్ట్‌కోడ్‌ను అతికించండి. ప్రతి సైన్-అప్‌కు మొదట నిర్ధారణ ఇమెయిల్ వస్తుంది (ద్వంద్వ సమ్మతి), మరియు నిర్ధారించిన వ్యక్తులు మాత్రమే మీ జాబితాలో చేరతారు."
+
+#: includes/class-zinn-campaigns-admin.php:185
+msgid "Your account has no sign-up forms yet. Create one in your Zinn® dashboard under Campaigns, Forms, then press Refresh."
+msgstr "మీ ఖాతాలో ఇంకా ఎటువంటి సైన్-అప్ ఫారమ్‌లు లేవు. ప్రచారాలు, ఫారమ్‌లు కింద మీ Zinn® డ్యాష్‌బోర్డ్‌లో ఒకదాన్ని సృష్టించండి, ఆపై రిఫ్రెష్ చేయి నొక్కండి."
+
+#: includes/class-zinn-campaigns-admin.php:188
+#: includes/class-zinn-campaigns-forms.php:185
+msgid "Form"
+msgstr "ఫారమ్"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "List"
+msgstr "జాబితా"
+
+#: includes/class-zinn-campaigns-admin.php:188
+msgid "Shortcode"
+msgstr "షార్ట్‌కోడ్"
+
+#: includes/class-zinn-campaigns-admin.php:212
+msgid "Grow your list on this site with double opt-in sign-up forms, and send email, SMS and WhatsApp campaigns from your Zinn® Campaigns account."
+msgstr "డబుల్ ఆప్ట్-ఇన్ సైన్-అప్ ఫారమ్‌లతో ఈ సైట్‌లో మీ జాబితాను పెంచుకోండి మరియు మీ Zinn® Campaigns ఖాతా నుండి ఇమెయిల్, SMS మరియు WhatsApp ప్రచారాలను పంపండి."
+
+#: includes/class-zinn-campaigns-admin.php:213
+msgid "Connect opens Zinn® in this window. Sign in or create an account, approve this site, and you come straight back here. You never paste a key."
+msgstr "\"కనెక్ట్ చేయి\" ఈ విండోలో Zinn®ని తెరుస్తుంది. సైన్ ఇన్ చేయండి లేదా ఖాతాను సృష్టించండి, ఈ సైట్‌ను ఆమోదించండి, మీరు నేరుగా ఇక్కడికి తిరిగి వస్తారు. మీరు ఎప్పుడూ కీని అతికించాల్సిన అవసరం లేదు."
+
+#: includes/class-zinn-campaigns-admin.php:214
+msgid "Connect to Zinn® Campaigns"
+msgstr "Zinn® Campaigns కి కనెక్ట్ అవ్వండి"
+
+#: includes/class-zinn-campaigns-admin.php:221
+msgid "Connected, but Zinn® could not be reached just now. We will try again shortly."
+msgstr "కనెక్ట్ చేయబడింది, కానీ ప్రస్తుతం Zinn®ని చేరుకోలేకపోయాము. మేము త్వరలోనే మళ్లీ ప్రయత్నిస్తాము."
+
+#: includes/class-zinn-campaigns-admin.php:225
+msgid "Site"
+msgstr "సైట్"
+
+#: includes/class-zinn-campaigns-admin.php:226
+msgid "Connected"
+msgstr "కనెక్ట్ చేయబడింది"
+
+#: includes/class-zinn-campaigns-admin.php:230
+msgid "Open for your account"
+msgstr "మీ ఖాతా కోసం తెరవబడింది"
+
+#: includes/class-zinn-campaigns-admin.php:231
+msgid "Not open for your account yet. Zinn® will e-mail you when it is."
+msgstr "మీ ఖాతా కోసం ఇంకా అందుబాటులోకి రాలేదు. అది అందుబాటులోకి వచ్చినప్పుడు Zinn® మీకు ఈమెయిల్ పంపుతుంది."
+
+#: includes/class-zinn-campaigns-admin.php:235
+msgid "Refresh"
+msgstr "రిఫ్రెష్ చేయండి"
+
+#: includes/class-zinn-campaigns-admin.php:238
+msgid "Disconnect"
+msgstr "సంధానాన్ని తెంచు"
+
+#: includes/class-zinn-campaigns-connect.php:80
+msgid "You are not allowed to connect this site."
+msgstr "ఈ సైట్‌ను కనెక్ట్ చేయడానికి మీకు అనుమతి లేదు."
+
+#: includes/class-zinn-campaigns-connect.php:160
+msgid "You are not allowed to disconnect this site."
+msgstr "ఈ సైట్ అనుసంధానాన్ని తీసివేయడానికి మీకు అనుమతి లేదు."
+
+#: includes/class-zinn-campaigns-forms.php:126
+msgid "Zinn Digital®"
+msgstr "Zinn Digital®"
+
+#: includes/class-zinn-campaigns-forms.php:151
+#: includes/class-zinn-campaigns-forms.php:183
+msgid "Zinn® Campaigns sign-up form"
+msgstr "Zinn® Campaigns సైన్-అప్ ఫారమ్"
+
+#: includes/class-zinn-campaigns-forms.php:173
+msgid "Choose a form"
+msgstr "ఫారమ్‌ను ఎంచుకోండి"
+
+#: includes/class-zinn-campaigns-forms.php:184
+msgid "A double opt-in sign-up form from your Zinn® Campaigns account."
+msgstr "మీ Zinn® Campaigns ఖాతా నుండి డబుల్ ఆప్ట్-ఇన్ సైన్-అప్ ఫారమ్."
+
+#: includes/class-zinn-campaigns-forms.php:186
+msgid "Sign-up form"
+msgstr "నమోదు ఫారమ్"
+
+#: includes/class-zinn-campaigns-forms.php:249
+msgid "Zinn® Campaigns: connect this site and choose one of your forms to show a sign-up form here."
+msgstr "Zinn® Campaigns: ఈ సైట్‌ను కనెక్ట్ చేయండి మరియు ఇక్కడ సైన్-అప్ ఫారమ్‌ను చూపించడానికి మీ ఫారమ్‌లలో ఒకదాన్ని ఎంచుకోండి."
+
+#: includes/class-zinn-campaigns-forms.php:256
+msgid "Sign up"
+msgstr "సైన్ అప్ చేయండి"
+
+#: includes/class-zinn-campaigns-forms.php:262
+msgid "Thank you. Check your inbox and click the link in our e-mail to confirm."
+msgstr "ధన్యవాదాలు. మీ ఇన్‌బాక్స్‌ని తనిఖీ చేసి, నిర్ధారించడానికి మా ఈ-మెయిల్‌లోని లింక్‌పై క్లిక్ చేయండి."
+
+#: includes/class-zinn-campaigns-forms.php:279
+msgid "Leave this empty"
+msgstr "దీన్ని ఖాళీగా ఉంచండి"
+
+#: includes/class-zinn-campaigns-forms.php:280
+msgid "E-mail address"
+msgstr "ఇమెయిల్ చిరునామా"
+
+#. translators: %s: the Zinn Digital trade mark, which is not translated.
+#: includes/class-zinn-campaigns-promo.php:363
+#: includes/class-zinn-campaigns-promo.php:421
+#, php-format
+msgid "%s — guides and services"
+msgstr "%s — మార్గదర్శకాలు మరియు సేవలు"
+
+#: includes/class-zinn-campaigns-promo.php:378
+msgid "User guides"
+msgstr "వినియోగదారు గైడ్‌లు"
+
+#. translators: %s: this plugin's name, e.g. "Zinn® Cache".
+#: includes/class-zinn-campaigns-promo.php:428
+#, php-format
+msgid "Read the %s user guide"
+msgstr "%s వినియోగదారు గైడ్‌ను చదవండి"
+
+#: includes/class-zinn-campaigns-promo.php:436
+msgid "Hide this"
+msgstr "దీన్ని దాచండి"
+
+#: includes/class-zinn-campaigns-promo.php:550
+msgid "Zinn® Pro Membership: every Pro plugin, one licence"
+msgstr "Zinn® Pro సభ్యత్వం: ప్రతి Pro ప్లగిన్, ఒక లైసెన్స్"
+
+#. translators: %s: the lowest yearly price with its currency sign, e.g. "$149".
+#: includes/class-zinn-campaigns-promo.php:553
+#, php-format
+msgid "The Pro versions of Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache and Zinn® Backups, and every Pro plugin we release next, from %s a year. A second membership adds Zinn® Chat Pro."
+msgstr "Page Builder Sandwich, Tranzly, Zinn® SEO, Zinn® Cache మరియు Zinn® Backups యొక్క Pro వెర్షన్‌లు, మరియు మేము తర్వాత విడుదల చేసే ప్రతి Pro ప్లగిన్, సంవత్సరానికి %s నుండి. రెండవ సభ్యత్వం Zinn® Chat Proను జోడిస్తుంది."
+
+#: includes/class-zinn-campaigns-promo.php:562
+msgid "Zinn® hosting for WordPress"
+msgstr "WordPress కొరకు Zinn® హోస్టింగ్"
+
+#: includes/class-zinn-campaigns-promo.php:563
+msgid "LiteSpeed, daily backups, free migration and a control panel built for people who run more than one site."
+msgstr "LiteSpeed, రోజువారీ బ్యాకప్‌లు, ఉచిత మైగ్రేషన్ మరియు ఒకటి కంటే ఎక్కువ సైట్‌లను నడిపించే వ్యక్తుల కోసం రూపొందించబడిన నియంత్రణ ప్యానెల్."
+
+#: includes/class-zinn-campaigns-promo.php:569
+msgid "The Zinn® marketplace"
+msgstr "Zinn® మార్కెట్‌ప్లేస్"
+
+#: includes/class-zinn-campaigns-promo.php:570
+msgid "Buy and sell established sites, domains and link placements, with the money held safely until both sides are happy."
+msgstr "రెండు వైపులా సంతృప్తి చెందే వరకు నగదు సురక్షితంగా ఉంచబడుతుండగా, ఇప్పటికే స్థాపించబడిన సైట్‌లు, డొమైన్‌లు మరియు లింక్ ప్లేస్‌మెంట్‌లను కొనండి మరియు విక్రయించండి."
+
+#: includes/class-zinn-campaigns-promo.php:617
+msgid "Zinn Hub® — hire people who do this for a living"
+msgstr "Zinn Hub® — జీవనోపాధి కోసం ఈ పని చేసే వారిని నియమించుకోండి"
+
+#: includes/class-zinn-campaigns-promo.php:618
+msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
+msgstr "మా గ్లోబల్ ఫ్రీలాన్స్ మార్కెట్‌ప్లేస్: రచయితలు, డిజైనర్లు, డెవలపర్లు మరియు SEO నిపుణుల నుండి 10,000 కంటే ఎక్కువ సిద్ధంగా ఉన్న సేవలను బ్రౌజ్ చేయండి లేదా ప్రాజెక్ట్‌ను పోస్ట్ చేసి వేలం వేయడానికి వారిని అనుమతించండి."
+
+#: includes/class-zinn-campaigns-updater.php:253
+msgid "See the Zinn Digital® release notes."
+msgstr "Zinn Digital® విడుదల గమనికలను చూడండి."
+
+#: includes/class-zinn-campaigns-updater.php:302
+msgid "The Zinn® update service did not issue a download link for this update. Check that this site can reach the Zinn® platform, then try again."
+msgstr "Zinn® నవీకరణ సేవ ఈ నవీకరణ కోసం డౌన్‌లోడ్ లింక్‌ను అందించలేదు. ఈ సైట్ Zinn® ప్లాట్‌ఫారమ్‌ను చేరుకోగలదో లేదో తనిఖీ చేయండి, ఆపై మళ్లీ ప్రయత్నించండి."
+
+#. translators: %s: the download error reported by WordPress.
+#: includes/class-zinn-campaigns-updater.php:316
+#, php-format
+msgid "The update could not be downloaded from the Zinn® update service (%s). Try again in a few minutes."
+msgstr "Zinn® నవీకరణ సేవ (%s) నుండి నవీకరణను డౌన్‌లోడ్ చేయడం సాధ్యపడలేదు. దయచేసి కొన్ని నిమిషాల తర్వాత మళ్లీ ప్రయత్నించండి."
+
+#: includes/class-zinn-campaigns-updater.php:330
+msgid "The downloaded update failed its integrity check and was not installed."
+msgstr "డౌన్‌లోడ్ చేసిన అప్‌డేట్ సమగ్రత తనిఖీలో విఫలమైంది మరియు ఇన్‌స్టాల్ చేయబడలేదు."
