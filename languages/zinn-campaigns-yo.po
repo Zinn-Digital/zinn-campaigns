@@ -270,6 +270,10 @@ msgstr "Zinn Hub® — gba àwọn ènìyàn tí iṣẹ́ yìí jẹ́ ohun ìg
 msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
 msgstr "Ọjà iṣẹ́ freelance àgbáyé wa: wá nínú àwọn iṣẹ́ tí a ti pèsè sílẹ̀ tí ó ju 10,000 lọ láti ọwọ́ àwọn oǹkọ̀wé, àwọn olùṣe àwòrán, àwọn olùgbéṣẹ́-ètò àti àwọn amòye SEO, tàbí fi iṣẹ́ kan síta kí o sì jẹ́ kí wọ́n dúnràadura fún un."
 
+#: includes/class-zinn-campaigns-store-events.php:147
+msgid "Email me offers and reminders, including about items left in my cart. I can unsubscribe at any time."
+msgstr "Fi awọn ipese ati awọn olurannileti ranṣẹ si mi nipasẹ imeeli, pẹlu nipa awọn nkan ti o ku ninu kẹkẹ mi. Mo le yọwọ kuro nigbakugba."
+
 #: includes/class-zinn-campaigns-updater.php:253
 msgid "See the Zinn Digital® release notes."
 msgstr "Wo àwọn àkọsílẹ̀ ìtújáde Zinn Digital®."

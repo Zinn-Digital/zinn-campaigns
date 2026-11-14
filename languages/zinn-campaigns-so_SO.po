@@ -270,6 +270,10 @@ msgstr "Zinn Hub® — shaqaalayso dad shaqadani noloshooda tahay"
 msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
 msgstr "Suuqa xorta ah ee caalamiga ah ee aan bixinno: baar in ka badan 10,000 adeeg oo diyaarsan oo ay bixinayaan qoraayaal, naqshadeeyayaal, sameeyayaal softiweer iyo khubaro SEO, ama daabac mashruuc si ay ugu tartamaan."
 
+#: includes/class-zinn-campaigns-store-events.php:147
+msgid "Email me offers and reminders, including about items left in my cart. I can unsubscribe at any time."
+msgstr "Iigu soo dir dalabyada iyo xusuusinta iimaylka, oo ay ku jiraan alaabta ku hartay gaarigayga wax iibsiga. Waan joojin karaa is-diiwaangelinta wakhti kasta."
+
 #: includes/class-zinn-campaigns-updater.php:253
 msgid "See the Zinn Digital® release notes."
 msgstr "Eeg qoraalada soo-saarista Zinn Digital®."

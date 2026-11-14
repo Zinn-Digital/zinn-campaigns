@@ -270,6 +270,10 @@ msgstr "Zinn Hub® – olyan embereket bízhatunk meg, akik ezzel keresik a keny
 msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
 msgstr "Globális szabadúszó piacterünk: böngésszen több mint 10 000 kész szolgáltatás között szövegíróktól, tervezőktől, fejlesztőktől és SEO-szakemberektől, vagy hozzon létre egy projektet, és fogadjon ajánlatokat."
 
+#: includes/class-zinn-campaigns-store-events.php:147
+msgid "Email me offers and reminders, including about items left in my cart. I can unsubscribe at any time."
+msgstr "Ajánlatok és emlékeztetők küldése e-mailben, beleértve a kosárban hagyott tételeket is. A leiratkozás bármikor lehetséges."
+
 #: includes/class-zinn-campaigns-updater.php:253
 msgid "See the Zinn Digital® release notes."
 msgstr "A Zinn Digital® kiadási megjegyzéseinek megtekintése."

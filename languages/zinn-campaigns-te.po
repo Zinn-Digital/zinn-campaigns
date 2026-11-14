@@ -270,6 +270,10 @@ msgstr "Zinn Hub® — జీవనోపాధి కోసం ఈ పని �
 msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
 msgstr "మా గ్లోబల్ ఫ్రీలాన్స్ మార్కెట్‌ప్లేస్: రచయితలు, డిజైనర్లు, డెవలపర్లు మరియు SEO నిపుణుల నుండి 10,000 కంటే ఎక్కువ సిద్ధంగా ఉన్న సేవలను బ్రౌజ్ చేయండి లేదా ప్రాజెక్ట్‌ను పోస్ట్ చేసి వేలం వేయడానికి వారిని అనుమతించండి."
 
+#: includes/class-zinn-campaigns-store-events.php:147
+msgid "Email me offers and reminders, including about items left in my cart. I can unsubscribe at any time."
+msgstr "నా కార్ట్‌లో మిగిలి ఉన్న అంశాలతో సహా ఆఫర్‌లు మరియు రిమైండర్‌లను నాకు ఇమెయిల్ చేయండి. నేను ఎప్పుడైనా సభ్యత్వాన్ని రద్దు చేసుకోవచ్చు."
+
 #: includes/class-zinn-campaigns-updater.php:253
 msgid "See the Zinn Digital® release notes."
 msgstr "Zinn Digital® విడుదల గమనికలను చూడండి."

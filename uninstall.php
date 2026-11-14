@@ -14,6 +14,13 @@ defined( 'WP_UNINSTALL_PLUGIN' ) || exit;
  */
 function zinn_campaigns_uninstall(): void {
 	global $wpdb;
+	$wpdb->query( "DROP TABLE IF EXISTS {$wpdb->prefix}zinn_campaigns_carts" ); // phpcs:ignore WordPress.DB.DirectDatabaseQuery,WordPress.DB.PreparedSQL.InterpolatedNotPrepared -- uninstall: removing our own cart table.
+	delete_metadata( 'user', 0, 'zinn_campaigns_email_consent_at', '', true );
+	if ( function_exists( 'as_unschedule_all_actions' ) ) {
+		as_unschedule_all_actions( 'zinn_campaigns_cart_sweep' );
+		as_unschedule_all_actions( 'zinn_campaigns_send_event' );
+	}
+	wp_clear_scheduled_hook( 'zinn_campaigns_cart_sweep' );
 	$like = array(
 		$wpdb->esc_like( 'zinn_campaigns_' ) . '%',
 		$wpdb->esc_like( '_transient_zinn_campaigns_' ) . '%',

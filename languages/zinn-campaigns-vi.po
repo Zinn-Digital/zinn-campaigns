@@ -270,6 +270,10 @@ msgstr "Zinn Hub® — thuê những người kiếm sống bằng công việc 
 msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
 msgstr "Thị trường làm việc tự do toàn cầu của chúng tôi: duyệt qua hơn 10.000 dịch vụ có sẵn từ các nhà văn, nhà thiết kế, nhà phát triển và chuyên gia SEO, hoặc đăng dự án để họ chào giá."
 
+#: includes/class-zinn-campaigns-store-events.php:147
+msgid "Email me offers and reminders, including about items left in my cart. I can unsubscribe at any time."
+msgstr "Gửi cho tôi các ưu đãi và lời nhắc qua email, bao gồm cả các mặt hàng còn lại trong giỏ hàng của tôi. Tôi có thể hủy đăng ký bất cứ lúc nào."
+
 #: includes/class-zinn-campaigns-updater.php:253
 msgid "See the Zinn Digital® release notes."
 msgstr "Xem ghi chú phát hành của Zinn Digital®."

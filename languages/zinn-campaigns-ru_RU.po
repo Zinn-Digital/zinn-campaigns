@@ -270,6 +270,10 @@ msgstr "Zinn Hub® — нанимайте тех, кто занимается э
 msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
 msgstr "Наша глобальная биржа фриланса: просмотрите более 10 000 готовых услуг от копирайтеров, дизайнеров, разработчиков и SEO-специалистов или опубликуйте проект и получайте предложения."
 
+#: includes/class-zinn-campaigns-store-events.php:147
+msgid "Email me offers and reminders, including about items left in my cart. I can unsubscribe at any time."
+msgstr "Отправляйте мне предложения и напоминания по электронной почте, в том числе о товарах, оставленных в моей корзине. Я могу отписаться в любое время."
+
 #: includes/class-zinn-campaigns-updater.php:253
 msgid "See the Zinn Digital® release notes."
 msgstr "Посмотреть примечания к выпуску Zinn Digital®."

@@ -270,6 +270,10 @@ msgstr "Zinn Hub® — ایسے لوگوں کی خدمات حاصل کریں ج�
 msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
 msgstr "ہماری عالمی فری لانس مارکیٹ پلیس: مصنفین، ڈیزائنرز، ڈیولپرز اور ایس ای او ماہرین کی 10,000 سے زائد تیار شدہ خدمات دیکھیں، یا کوئی پروجیکٹ شائع کریں اور انہیں بولی لگانے دیں۔"
 
+#: includes/class-zinn-campaigns-store-events.php:147
+msgid "Email me offers and reminders, including about items left in my cart. I can unsubscribe at any time."
+msgstr "مجھے پیشکشیں اور یاد دہانیاں ای میل کریں، بشمول میری ٹوکری میں چھوڑی گئی اشیاء کے بارے میں۔ میں کسی بھی وقت ان سبسکرائب کر سکتا/سکتی ہوں۔"
+
 #: includes/class-zinn-campaigns-updater.php:253
 msgid "See the Zinn Digital® release notes."
 msgstr "Zinn Digital® ریلیز نوٹس دیکھیں۔"

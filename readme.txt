@@ -7,7 +7,7 @@ Tags: email marketing, sms, whatsapp, newsletter, woocommerce
 Requires at least: 6.6
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 0.1.0
+Stable tag: 0.2.0
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,6 +24,7 @@ Connect your site to Zinn® Campaigns for email, SMS and WhatsApp marketing, wit
 * **Double opt-in sign-up forms on any page.** Add the "Zinn® Campaigns sign-up form" block (in the Zinn Digital® category of the block inserter) or the `[zinn_campaigns_form id="…"]` shortcode. The form shows your Zinn® Campaigns form's own title, text and consent sentence, with an unticked box the visitor must tick. Zinn® Campaigns then sends one confirmation e-mail, and only people who click it join your list.
 * **Spam protection without a cookie or a captcha.** A hidden field and a signed, time-limited form token stop most bots, and forms keep working on cached pages.
 * **Shows what your plan includes.** The Zinn® Campaigns screen shows whether your account includes Pro. You get Pro free with any paid Zinn® Campaigns plan; Pro is a separate add-on you download from your Zinn® dashboard.
+* **Abandoned-cart, browse and recovery flows for WooCommerce.** The checkout shows an unticked box: "Email me offers and reminders, including about items left in my cart." Only a shopper who ticks it is sent to Zinn® Campaigns for a reminder. A cart left unpaid for an hour is reported once (Zinn® Campaigns then sends the reminders on the schedule you set there), a reminder link brings the shopper back to a refilled cart, and an order ends the reminders.
 * **Works with multilingual sites.** The site's languages are read from Tranzly, WPML or Polylang (or the site language) and reported to Zinn® Campaigns.
 
 == Installation ==
@@ -45,6 +46,11 @@ It sends nothing until you press Connect. Then:
 * **Plan** (`GET /v1/store-connect/campaigns`, at most every ten minutes while the site is connected and the Zinn® Campaigns screen is open): nothing but the site's token. The answer is whether the account includes Pro.
 * **Forms** (`GET /v1/store-connect/forms`, at most every ten minutes, when a page with a sign-up form is shown or the screen is open): nothing but the site's token. The answer is your account's sign-up forms.
 * **Sign-up** (`POST /v1/store-connect/forms`, only when a visitor types an e-mail address, ticks the consent box and presses the button): the form, the address, the page it was on, the visitor's IP address and browser name. Zinn® Campaigns keeps them as the proof of consent and sends the confirmation e-mail.
+* **Store events** (`POST /v1/store-connect/events`, only while the site is connected and WooCommerce is active, sent in the background by Action Scheduler):
+  * `order_placed` and `payment_confirmed` when an order is placed or paid: the order id and number, the billing e-mail address and first name, the order total and currency, and the store language. `payment_confirmed` is sent only when the shopper ticked the box. These end any reminder flow for that shopper.
+  * `cart_abandoned` when a cart with an e-mail address typed at checkout is left unpaid for an hour (checked every five minutes, carts older than two days are never sent): the e-mail address, first name, a random cart id, the reminder link, the cart total and currency, the store language, and — only when the shopper ticked the box — when they ticked it and the exact wording of the box they ticked, as the proof of consent. A cart without that tick is not sent.
+  * `cart_recovered` when a cart that was reported comes back as an order: the same cart fields.
+  * `product_viewed` at most once a day per product, only for a shopper who ticked the box: the e-mail address, first name, the product's name, address and price, and the proof of consent.
 * **Disconnect** (`DELETE /v1/store-connect/connection`, when you press it): a request that revokes the site's token.
 
 == Frequently Asked Questions ==
@@ -63,9 +69,18 @@ No. Zinn® Campaigns sends them a confirmation e-mail first, and they join your 
 
 = Is anything stored on my site? =
 
-Only the connection token, a random install id and short-lived caches. Sign-ups are not stored on your site.
+The connection token, a random install id and short-lived caches. With WooCommerce, the plugin also keeps a small table of open checkout carts (e-mail address, first name, cart total, a random cart id and whether the box was ticked) so it can tell when one is abandoned; rows are removed 30 days after their last change and the table is deleted when you uninstall. Sign-ups are not stored on your site.
+
+= Who gets an abandoned-cart reminder? =
+
+Only a shopper who typed their e-mail address at checkout and ticked the box. Zinn® Campaigns sends the reminders, with an unsubscribe link in each, and an order stops them.
 
 == Changelog ==
+
+= 0.2.0 =
+* WooCommerce: an unticked marketing opt-in box at checkout (classic and block checkout).
+* WooCommerce: abandoned carts are detected in the background and reported once to Zinn® Campaigns for consented shoppers, with a reminder link that refills the cart.
+* WooCommerce: sends order placed, payment confirmed, cart recovered and product viewed events so Zinn® Campaigns flows start and stop at the right time.
 
 = 0.1.0 =
 * One-click connect to Zinn® Campaigns, connection status, Refresh and Disconnect.
@@ -73,6 +88,9 @@ Only the connection token, a random install id and short-lived caches. Sign-ups 
 * Shows whether the connected account includes Zinn® Campaigns Pro.
 
 == Upgrade Notice ==
+
+= 0.2.0 =
+Adds abandoned-cart, browse and recovery events for WooCommerce, with a checkout opt-in box.
 
 = 0.1.0 =
 First release.

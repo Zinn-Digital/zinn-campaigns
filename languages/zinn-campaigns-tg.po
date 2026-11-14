@@ -270,6 +270,10 @@ msgstr "Zinn Hub® — одамонеро ба кор гиред, ки ин ка
 msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
 msgstr "Бозори ҷаҳонии фрилансерии мо: беш аз 10 000 хидмати омодаро аз муаллифон, тарроҳон, барномасозон ва мутахассисони SEO аз назар гузаронед, ё лоиҳае пешниҳод карда, ба онҳо имкон диҳед, ки нархнома фиристанд."
 
+#: includes/class-zinn-campaigns-store-events.php:147
+msgid "Email me offers and reminders, including about items left in my cart. I can unsubscribe at any time."
+msgstr "Ба ман тавассути почтаи электронӣ пешниҳодҳо ва ёдраскуниҳо фиристед, аз ҷумла дар бораи маҳсулоти дар сабади ман монда. Ман метавонам дар дилхоҳ вақт обунаро қатъ кунам."
+
 #: includes/class-zinn-campaigns-updater.php:253
 msgid "See the Zinn Digital® release notes."
 msgstr "Қайдҳои нашри Zinn Digital®-ро бинед."

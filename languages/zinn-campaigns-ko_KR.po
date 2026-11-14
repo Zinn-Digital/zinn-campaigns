@@ -270,6 +270,10 @@ msgstr "Zinn Hub® — 이것을 본업으로 하는 전문가를 고용하세�
 msgid "Our global freelance marketplace: browse over 10,000 ready-made services from writers, designers, developers and SEOs, or post a project and let them bid."
 msgstr "당사의 글로벌 프리랜서 마켓플레이스: 작가, 디자이너, 개발자 및 SEO 전문가가 제공하는 10,000개 이상의 기성 서비스를 둘러보거나 프로젝트를 게시하고 입찰을 받아보세요."
 
+#: includes/class-zinn-campaigns-store-events.php:147
+msgid "Email me offers and reminders, including about items left in my cart. I can unsubscribe at any time."
+msgstr "장바구니에 남겨진 품목에 대한 알림을 포함하여 혜택 및 알림을 이메일로 받아보겠습니다. 언제든지 구독을 취소할 수 있습니다."
+
 #: includes/class-zinn-campaigns-updater.php:253
 msgid "See the Zinn Digital® release notes."
 msgstr "Zinn Digital® 릴리스 노트를 확인하세요."
