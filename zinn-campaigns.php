@@ -3,7 +3,7 @@
  * Plugin Name:       Zinn® Campaigns – Email & SMS Marketing for WooCommerce & More
  * Plugin URI:        https://zinndigital.com/wordpress-plugins/zinn-campaigns
  * Description:       Connect your WordPress site or WooCommerce store to Zinn® Campaigns in one click and grow your list with double opt-in sign-up forms. Email, SMS and WhatsApp campaigns are sent from your Zinn® Campaigns account.
- * Version:           0.2.0
+ * Version:           0.2.1
  * Requires at least: 6.6
  * Requires PHP:      7.4
  * Author:            Neil Lock — CEO, Zinn Digital® Ltd
@@ -30,7 +30,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'ZINN_CAMPAIGNS_VERSION', '0.2.0' );
+define( 'ZINN_CAMPAIGNS_VERSION', '0.2.1' );
 define( 'ZINN_CAMPAIGNS_FILE', __FILE__ );
 
 /**

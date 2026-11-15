@@ -7,7 +7,7 @@ Tags: email marketing, sms, whatsapp, newsletter, woocommerce
 Requires at least: 6.6
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 0.2.0
+Stable tag: 0.2.1
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,10 @@ Connect your site to Zinn® Campaigns for email, SMS and WhatsApp marketing, wit
 * **Shows what your plan includes.** The Zinn® Campaigns screen shows whether your account includes Pro. You get Pro free with any paid Zinn® Campaigns plan; Pro is a separate add-on you download from your Zinn® dashboard.
 * **Abandoned-cart, browse and recovery flows for WooCommerce.** The checkout shows an unticked box: "Email me offers and reminders, including about items left in my cart." Only a shopper who ticks it is sent to Zinn® Campaigns for a reminder. A cart left unpaid for an hour is reported once (Zinn® Campaigns then sends the reminders on the schedule you set there), a reminder link brings the shopper back to a refilled cart, and an order ends the reminders.
 * **Works with multilingual sites.** The site's languages are read from Tranzly, WPML or Polylang (or the site language) and reported to Zinn® Campaigns.
+
+= Source code =
+
+The complete source is public at https://github.com/Zinn-Digital/zinn-campaigns
 
 == Installation ==
 
@@ -76,6 +80,9 @@ The connection token, a random install id and short-lived caches. With WooCommer
 Only a shopper who typed their e-mail address at checkout and ticked the box. Zinn® Campaigns sends the reminders, with an unsubscribe link in each, and an order stops them.
 
 == Changelog ==
+
+= 0.2.1 =
+* The readme links the plugin's public source repository.
 
 = 0.2.0 =
 * WooCommerce: an unticked marketing opt-in box at checkout (classic and block checkout).
