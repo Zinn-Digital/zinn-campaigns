@@ -55,6 +55,7 @@ It sends nothing until you press Connect. Then:
   * `cart_abandoned` when a cart with an e-mail address typed at checkout is left unpaid for an hour (checked every five minutes, carts older than two days are never sent): the e-mail address, first name, a random cart id, the reminder link, the cart total and currency, the store language, and — only when the shopper ticked the box — when they ticked it and the exact wording of the box they ticked, as the proof of consent. A cart without that tick is not sent.
   * `cart_recovered` when a cart that was reported comes back as an order: the same cart fields.
   * `product_viewed` at most once a day per product, only for a shopper who ticked the box: the e-mail address, first name, the product's name, address and price, and the proof of consent.
+* **Opt-outs** (`GET /v1/store-connect/campaigns/opt-outs`, once an hour in the background by WP-Cron (a few pages in a row when a backlog is waiting), only while the site is connected): the site's token and, for each contact source already read, where the last pull stopped. The answer is the e-mail addresses that unsubscribed, bounced or complained in Zinn® Campaigns, which the plugin marks as opted out on the site (MailPoet, The Newsletter Plugin and WordPress / WooCommerce users).
 * **Disconnect** (`DELETE /v1/store-connect/connection`, when you press it): a request that revokes the site's token.
 
 == Frequently Asked Questions ==
