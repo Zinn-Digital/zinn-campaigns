@@ -21,6 +21,8 @@ function zinn_campaigns_uninstall(): void {
 		as_unschedule_all_actions( 'zinn_campaigns_send_event' );
 	}
 	wp_clear_scheduled_hook( 'zinn_campaigns_cart_sweep' );
+	wp_clear_scheduled_hook( 'zinn_campaigns_opt_out_pull' );
+	delete_metadata( 'user', 0, 'zinn_campaigns_opted_out_at', '', true );
 	$like = array(
 		$wpdb->esc_like( 'zinn_campaigns_' ) . '%',
 		$wpdb->esc_like( '_transient_zinn_campaigns_' ) . '%',

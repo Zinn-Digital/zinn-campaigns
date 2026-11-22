@@ -7,7 +7,7 @@ Tags: email marketing, sms, whatsapp, newsletter, woocommerce
 Requires at least: 6.6
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 0.2.1
+Stable tag: 0.3.0
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -80,6 +80,9 @@ The connection token, a random install id and short-lived caches. With WooCommer
 Only a shopper who typed their e-mail address at checkout and ticked the box. Zinn® Campaigns sends the reminders, with an unsubscribe link in each, and an order stops them.
 
 == Changelog ==
+
+= 0.3.0 =
+* Opt-outs made in Zinn® Campaigns (unsubscribes, bounces, complaints) are pulled back every hour and marked on the site: MailPoet, The Newsletter Plugin and WordPress / WooCommerce users. Other plugins can listen to the `zinn_campaigns_opt_out` action.
 
 = 0.2.1 =
 * The readme links the plugin's public source repository.
